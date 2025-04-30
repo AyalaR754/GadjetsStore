@@ -186,3 +186,14 @@ M:\23-04-2025\GadjetsStore\obj\Debug\net9.0\GadjetsStore.sourcelink.json
 M:\23-04-2025\GadjetsStore\obj\Debug\net9.0\GadjetsStore.dll
 M:\23-04-2025\GadjetsStore\obj\Debug\net9.0\refint\GadjetsStore.dll
 M:\23-04-2025\GadjetsStore\obj\Debug\net9.0\GadjetsStore.pdb
+M:\api\GadjetsStore\obj\Debug\net9.0\GadjetsStore.csproj.AssemblyReference.cache
+M:\api\GadjetsStore\obj\Debug\net9.0\GadjetsStore.GeneratedMSBuildEditorConfig.editorconfig
+M:\api\GadjetsStore\obj\Debug\net9.0\GadjetsStore.AssemblyInfoInputs.cache
+M:\api\GadjetsStore\obj\Debug\net9.0\GadjetsStore.AssemblyInfo.cs
+M:\api\GadjetsStore\obj\Debug\net9.0\GadjetsStore.csproj.CoreCompileInputs.cache
+M:\api\GadjetsStore\obj\Debug\net9.0\GadjetsStore.MvcApplicationPartsAssemblyInfo.cs
+M:\api\GadjetsStore\obj\Debug\net9.0\GadjetsStore.MvcApplicationPartsAssemblyInfo.cache
+M:\api\GadjetsStore\obj\Debug\net9.0\GadjetsStore.sourcelink.json
+M:\api\GadjetsStore\obj\Debug\net9.0\GadjetsStore.dll
+M:\api\GadjetsStore\obj\Debug\net9.0\refint\GadjetsStore.dll
+M:\api\GadjetsStore\obj\Debug\net9.0\GadjetsStore.pdb

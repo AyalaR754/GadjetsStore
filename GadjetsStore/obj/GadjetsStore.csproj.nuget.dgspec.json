@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "M:\\23-04-2025\\GadjetsStore\\GadjetsStore.csproj": {}
+    "M:\\api\\GadjetsStore\\GadjetsStore.csproj": {}
   },
   "projects": {
-    "M:\\23-04-2025\\Entities\\Entities.csproj": {
+    "M:\\api\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\23-04-2025\\Entities\\Entities.csproj",
+        "projectUniqueName": "M:\\api\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "M:\\23-04-2025\\Entities\\Entities.csproj",
+        "projectPath": "M:\\api\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\326770138\\.nuget\\packages\\",
-        "outputPath": "M:\\23-04-2025\\Entities\\obj\\",
+        "outputPath": "M:\\api\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "M:\\23-04-2025\\GadjetsStore\\GadjetsStore.csproj": {
+    "M:\\api\\GadjetsStore\\GadjetsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\23-04-2025\\GadjetsStore\\GadjetsStore.csproj",
+        "projectUniqueName": "M:\\api\\GadjetsStore\\GadjetsStore.csproj",
         "projectName": "GadjetsStore",
-        "projectPath": "M:\\23-04-2025\\GadjetsStore\\GadjetsStore.csproj",
+        "projectPath": "M:\\api\\GadjetsStore\\GadjetsStore.csproj",
         "packagesPath": "C:\\Users\\326770138\\.nuget\\packages\\",
-        "outputPath": "M:\\23-04-2025\\GadjetsStore\\obj\\",
+        "outputPath": "M:\\api\\GadjetsStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,11 +99,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "M:\\23-04-2025\\Entities\\Entities.csproj": {
-                "projectPath": "M:\\23-04-2025\\Entities\\Entities.csproj"
+              "M:\\api\\Entities\\Entities.csproj": {
+                "projectPath": "M:\\api\\Entities\\Entities.csproj"
               },
-              "M:\\23-04-2025\\Services\\Services.csproj": {
-                "projectPath": "M:\\23-04-2025\\Services\\Services.csproj"
+              "M:\\api\\Services\\Services.csproj": {
+                "projectPath": "M:\\api\\Services\\Services.csproj"
               }
             }
           }
@@ -152,14 +152,14 @@
         }
       }
     },
-    "M:\\23-04-2025\\Repositories\\Repositories.csproj": {
+    "M:\\api\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\23-04-2025\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "M:\\api\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "M:\\23-04-2025\\Repositories\\Repositories.csproj",
+        "projectPath": "M:\\api\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\326770138\\.nuget\\packages\\",
-        "outputPath": "M:\\23-04-2025\\Repositories\\obj\\",
+        "outputPath": "M:\\api\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -181,8 +181,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "M:\\23-04-2025\\Entities\\Entities.csproj": {
-                "projectPath": "M:\\23-04-2025\\Entities\\Entities.csproj"
+              "M:\\api\\Entities\\Entities.csproj": {
+                "projectPath": "M:\\api\\Entities\\Entities.csproj"
               }
             }
           }
@@ -222,14 +222,14 @@
         }
       }
     },
-    "M:\\23-04-2025\\Services\\Services.csproj": {
+    "M:\\api\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\23-04-2025\\Services\\Services.csproj",
+        "projectUniqueName": "M:\\api\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "M:\\23-04-2025\\Services\\Services.csproj",
+        "projectPath": "M:\\api\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\326770138\\.nuget\\packages\\",
-        "outputPath": "M:\\23-04-2025\\Services\\obj\\",
+        "outputPath": "M:\\api\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -251,11 +251,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "M:\\23-04-2025\\Entities\\Entities.csproj": {
-                "projectPath": "M:\\23-04-2025\\Entities\\Entities.csproj"
+              "M:\\api\\Entities\\Entities.csproj": {
+                "projectPath": "M:\\api\\Entities\\Entities.csproj"
               },
-              "M:\\23-04-2025\\Repositories\\Repositories.csproj": {
-                "projectPath": "M:\\23-04-2025\\Repositories\\Repositories.csproj"
+              "M:\\api\\Repositories\\Repositories.csproj": {
+                "projectPath": "M:\\api\\Repositories\\Repositories.csproj"
               }
             }
           }

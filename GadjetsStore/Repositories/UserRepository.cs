@@ -30,7 +30,7 @@ namespace Repositories
             try
             {
 
-                string filePath = "M:\\23-04-2025\\GadjetsStore\\user.txt";
+                string filePath = "M:\\23-04-2025\\user.txt";
                 if (!System.IO.File.Exists(filePath))
                 {
                     System.IO.File.Create(filePath).Close();
@@ -50,7 +50,7 @@ namespace Repositories
         }
         public List<User> Get()
         {
-            const string FilePath = "M:\\23-04-2025\\GadjetsStore\\user.txt";
+            const string FilePath = "M:\\23-04-2025\\user.txt";
 
             //List<User> users = System.IO.File.Exists("user.txt") ? System.IO.File.ReadLines("user.txt").Select(line => JsonSerializer.Deserialize<User>(line)).ToList() : new List<User>();
 
@@ -71,7 +71,7 @@ namespace Repositories
         public User UpDate(User userToUpdate, int id)
         {
 
-            string filePath = "M:\\23-04-2025\\GadjetsStore\\user.txt";
+            string filePath = "M:\\23-04-2025\\user.txt";
             string textToReplace = string.Empty;
             using (StreamReader reader = System.IO.File.OpenText(filePath))
             {

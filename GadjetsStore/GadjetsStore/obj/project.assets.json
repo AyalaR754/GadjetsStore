@@ -168,11 +168,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\GadjetsStore.csproj",
+      "projectUniqueName": "M:\\api\\GadjetsStore\\GadjetsStore\\GadjetsStore.csproj",
       "projectName": "GadjetsStore",
-      "projectPath": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\GadjetsStore.csproj",
+      "projectPath": "M:\\api\\GadjetsStore\\GadjetsStore\\GadjetsStore.csproj",
       "packagesPath": "C:\\Users\\326770138\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\",
+      "outputPath": "M:\\api\\GadjetsStore\\GadjetsStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -194,11 +194,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\Entities\\Entities.csproj"
+            "M:\\api\\GadjetsStore\\Entities\\Entities.csproj": {
+              "projectPath": "M:\\api\\GadjetsStore\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\Services\\Services.csproj"
+            "M:\\api\\GadjetsStore\\Services\\Services.csproj": {
+              "projectPath": "M:\\api\\GadjetsStore\\Services\\Services.csproj"
             }
           }
         }

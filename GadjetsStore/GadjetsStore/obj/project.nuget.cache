@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bzFz/YiDGfw=",
+  "dgSpecHash": "mn68Mzlttho=",
   "success": true,
-  "projectFilePath": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\GadjetsStore.csproj",
+  "projectFilePath": "M:\\api\\GadjetsStore\\GadjetsStore\\GadjetsStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\326770138\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
     "C:\\Users\\326770138\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",

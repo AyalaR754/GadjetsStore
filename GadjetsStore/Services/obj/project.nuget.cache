@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7b/Glcs2hqk=",
+  "dgSpecHash": "ntwXrhPhnhQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\Services\\Services.csproj",
+  "projectFilePath": "M:\\api\\GadjetsStore\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\326770138\\.nuget\\packages\\zxcvbn-core\\7.0.92\\zxcvbn-core.7.0.92.nupkg.sha512"
   ],

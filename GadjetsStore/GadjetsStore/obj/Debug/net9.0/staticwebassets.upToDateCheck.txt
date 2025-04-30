@@ -1,10 +1,10 @@
-C:\Users\326770138\Desktop\23-04-2025\GadjetsStore\GadjetsStore\wwwroot\Home.js
-C:\Users\326770138\Desktop\23-04-2025\GadjetsStore\GadjetsStore\wwwroot\UserPassword.js
-C:\Users\326770138\Desktop\23-04-2025\GadjetsStore\GadjetsStore\wwwroot\Update.html
-C:\Users\326770138\Desktop\23-04-2025\GadjetsStore\GadjetsStore\wwwroot\Home.html
-C:\Users\326770138\Desktop\23-04-2025\GadjetsStore\GadjetsStore\wwwroot\Home.css
-C:\Users\326770138\Desktop\23-04-2025\GadjetsStore\GadjetsStore\wwwroot\Register.html
-C:\Users\326770138\Desktop\23-04-2025\GadjetsStore\GadjetsStore\wwwroot\Register.js
+M:\api\GadjetsStore\GadjetsStore\wwwroot\Home.js
+M:\api\GadjetsStore\GadjetsStore\wwwroot\UserPassword.js
+M:\api\GadjetsStore\GadjetsStore\wwwroot\Update.html
+M:\api\GadjetsStore\GadjetsStore\wwwroot\Home.html
+M:\api\GadjetsStore\GadjetsStore\wwwroot\Home.css
+M:\api\GadjetsStore\GadjetsStore\wwwroot\Register.html
+M:\api\GadjetsStore\GadjetsStore\wwwroot\Register.js
 wwwroot\Home.css
 wwwroot\Home.html
 wwwroot\Home.js
