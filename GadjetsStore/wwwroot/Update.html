@@ -1,0 +1,73 @@
+﻿<!--<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <label for="FirstName">first name</label>
+    <input type="text" id="FirstName" />
+    <br />
+    <br />
+    <label for="LastName">last name</label>
+    <input type="text" id="LastName" />
+    <br />
+    <br />
+    <label for="UserName">user name</label>
+    <input type="text" id="UserName" />
+    <br />
+    <br />
+    <label for="Password">password</label>
+    <input type="password" id="Password" />
+    <br />
+    <br />
+
+    <button onclick="update()">Update</button>
+
+    <script src="Update.js"></script>
+</body>
+</html>-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update Information</title>
+    <link rel="stylesheet" href="Home.css"> <!-- קישור ל-CSS -->
+</head>
+<body>
+    <div class="card">
+        <h2>Update Information</h2>
+        <!--<form onsubmit="return validateForm()">-->
+        <label for="FirstName">First Name</label>
+        <input type="text" id="FirstName" required placeholder="Enter first name" />
+
+        <label for="LastName">Last Name</label>
+        <input type="text" id="LastName" required placeholder="Enter last name" />
+
+        <label for="UserName">User Name</label>
+        <input type="text" id="UserName" required placeholder="Enter username" />
+
+        <label for="Password">Password</label>
+        <input type="password" id="Password" required placeholder="Enter password" />
+
+        <button onclick="update()">Update</button>
+        <script src="Update.js"></script>
+        <!--</form>-->
+    </div>
+    <!--<script>
+        function validateForm() {
+            let firstName = document.getElementById("FirstName").value;
+            let lastName = document.getElementById("LastName").value;
+            let userName = document.getElementById("UserName").value;
+            let password = document.getElementById("Password").value;
+
+            if (firstName.trim() === "" || lastName.trim() === "" || userName.trim() === "" || password.trim() === "") {
+                alert("All fields are required!");
+                return false;
+            }
+            return true;
+        }
+    </script>-->
+</body>
+</html>

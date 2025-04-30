@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
+      "PackagePath": "staticwebassets\\Home.css"
+    },
+    {
+      "Id": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
+      "PackagePath": "staticwebassets\\Home.html"
+    },
+    {
+      "Id": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
+      "PackagePath": "staticwebassets\\Home.js"
+    },
+    {
+      "Id": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
+      "PackagePath": "staticwebassets\\Register.html"
+    },
+    {
+      "Id": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
+      "PackagePath": "staticwebassets\\Register.js"
+    },
+    {
+      "Id": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
+      "PackagePath": "staticwebassets\\Update.html"
+    },
+    {
+      "Id": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js",
+      "PackagePath": "staticwebassets\\UserPassword.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.GadjetsStore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.GadjetsStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.GadjetsStore.props",
+      "PackagePath": "build\\GadjetsStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.GadjetsStore.props",
+      "PackagePath": "buildMultiTargeting\\GadjetsStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.GadjetsStore.props",
+      "PackagePath": "buildTransitive\\GadjetsStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

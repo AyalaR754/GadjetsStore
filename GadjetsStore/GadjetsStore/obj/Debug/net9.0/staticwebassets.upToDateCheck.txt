@@ -1,0 +1,14 @@
+C:\Users\326770138\Desktop\23-04-2025\GadjetsStore\GadjetsStore\wwwroot\Home.js
+C:\Users\326770138\Desktop\23-04-2025\GadjetsStore\GadjetsStore\wwwroot\UserPassword.js
+C:\Users\326770138\Desktop\23-04-2025\GadjetsStore\GadjetsStore\wwwroot\Update.html
+C:\Users\326770138\Desktop\23-04-2025\GadjetsStore\GadjetsStore\wwwroot\Home.html
+C:\Users\326770138\Desktop\23-04-2025\GadjetsStore\GadjetsStore\wwwroot\Home.css
+C:\Users\326770138\Desktop\23-04-2025\GadjetsStore\GadjetsStore\wwwroot\Register.html
+C:\Users\326770138\Desktop\23-04-2025\GadjetsStore\GadjetsStore\wwwroot\Register.js
+wwwroot\Home.css
+wwwroot\Home.html
+wwwroot\Home.js
+wwwroot\Register.html
+wwwroot\Register.js
+wwwroot\Update.html
+wwwroot\UserPassword.js

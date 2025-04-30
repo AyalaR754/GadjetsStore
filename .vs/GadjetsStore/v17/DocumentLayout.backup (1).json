@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\rach\\desktop\\ayalis\\webapi\\gadjetsstore\\gadjetsstore\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\rach\\desktop\\ayalis\\webapi\\gadjetsstore\\gadjetsstore\\wwwroot\\update.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\wwwroot\\update.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\rach\\desktop\\ayalis\\webapi\\gadjetsstore\\gadjetsstore\\wwwroot\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\wwwroot\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\rach\\desktop\\ayalis\\webapi\\gadjetsstore\\gadjetsstore\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\rach\\desktop\\ayalis\\webapi\\gadjetsstore\\gadjetsstore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\rach\\desktop\\ayalis\\webapi\\gadjetsstore\\gadjetsstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\rach\\desktop\\ayalis\\webapi\\gadjetsstore\\gadjetsstore\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\rach\\desktop\\ayalis\\webapi\\gadjetsstore\\gadjetsstore\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\rach\\desktop\\ayalis\\webapi\\gadjetsstore\\gadjetsstore\\wwwroot\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\wwwroot\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\rach\\desktop\\ayalis\\webapi\\gadjetsstore\\gadjetsstore\\gadjetsstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\gadjetsstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 175,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update.js",
+              "DocumentMoniker": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.js",
+              "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Update.js",
+              "ToolTip": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.js",
+              "RelativeToolTip": "GadjetsStore\\wwwroot\\Update.js",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-17T18:20:39.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.html",
+              "DocumentMoniker": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
+              "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Update.html",
+              "ToolTip": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
+              "RelativeToolTip": "GadjetsStore\\wwwroot\\Update.html",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-17T18:19:42.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "GadjetsStore\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "GadjetsStore\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:38:39.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\User.cs",
+              "RelativeDocumentMoniker": "GadjetsStore\\User.cs",
+              "ToolTip": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\User.cs",
+              "RelativeToolTip": "GadjetsStore\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:17:15.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.js",
+              "DocumentMoniker": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
+              "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Register.js",
+              "ToolTip": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
+              "RelativeToolTip": "GadjetsStore\\wwwroot\\Register.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-10T12:08:29.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.html",
+              "DocumentMoniker": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
+              "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Home.html",
+              "ToolTip": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
+              "RelativeToolTip": "GadjetsStore\\wwwroot\\Home.html",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-10T11:46:44.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.js",
+              "DocumentMoniker": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
+              "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Home.js",
+              "ToolTip": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
+              "RelativeToolTip": "GadjetsStore\\wwwroot\\Home.js",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-10T11:46:22.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GadjetsStore\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GadjetsStore\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T11:19:26.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.html",
+              "DocumentMoniker": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
+              "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Register.html",
+              "ToolTip": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
+              "RelativeToolTip": "GadjetsStore\\wwwroot\\Register.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-10T12:08:40.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GadjetsStore.csproj",
+              "DocumentMoniker": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\GadjetsStore.csproj",
+              "RelativeDocumentMoniker": "GadjetsStore\\GadjetsStore.csproj",
+              "ToolTip": "C:\\Users\\Rach\\Desktop\\ayalis\\webapi\\GadjetsStore\\GadjetsStore\\GadjetsStore.csproj",
+              "RelativeToolTip": "GadjetsStore\\GadjetsStore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-10T11:14:09.819Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\326770138\\desktop\\23-04-2025\\gadjetsstore\\gadjetsstore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|c:\\users\\326770138\\desktop\\23-04-2025\\gadjetsstore\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\326770138\\desktop\\23-04-2025\\gadjetsstore\\gadjetsstore\\gadjetsstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\gadjetsstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|c:\\users\\326770138\\desktop\\23-04-2025\\gadjetsstore\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\326770138\\desktop\\23-04-2025\\gadjetsstore\\gadjetsstore\\wwwroot\\update.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\wwwroot\\update.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\326770138\\desktop\\23-04-2025\\gadjetsstore\\gadjetsstore\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\326770138\\desktop\\23-04-2025\\gadjetsstore\\gadjetsstore\\wwwroot\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\wwwroot\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\326770138\\desktop\\23-04-2025\\gadjetsstore\\gadjetsstore\\wwwroot\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\wwwroot\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\326770138\\desktop\\23-04-2025\\gadjetsstore\\gadjetsstore\\wwwroot\\userpassword.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\wwwroot\\userpassword.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|c:\\users\\326770138\\desktop\\23-04-2025\\gadjetsstore\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315DCAF3-03DC-471F-81D1-2C8FEF82CEB0}|Entities\\Entities.csproj|c:\\users\\326770138\\desktop\\23-04-2025\\gadjetsstore\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315DCAF3-03DC-471F-81D1-2C8FEF82CEB0}|Entities\\Entities.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\326770138\\desktop\\23-04-2025\\gadjetsstore\\gadjetsstore\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\326770138\\desktop\\23-04-2025\\gadjetsstore\\gadjetsstore\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\326770138\\desktop\\23-04-2025\\gadjetsstore\\gadjetsstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\326770138\\desktop\\23-04-2025\\gadjetsstore\\gadjetsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\326770138\\desktop\\23-04-2025\\gadjetsstore\\gadjetsstore\\wwwroot\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\wwwroot\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 175,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.html",
+              "DocumentMoniker": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
+              "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Register.html",
+              "ToolTip": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
+              "RelativeToolTip": "GadjetsStore\\wwwroot\\Register.html",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-23T09:58:17.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserPassword.js",
+              "DocumentMoniker": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js",
+              "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\UserPassword.js",
+              "ToolTip": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js",
+              "RelativeToolTip": "GadjetsStore\\wwwroot\\UserPassword.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-23T13:06:18.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GadjetsStore.csproj",
+              "DocumentMoniker": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\GadjetsStore.csproj",
+              "RelativeDocumentMoniker": "GadjetsStore\\GadjetsStore.csproj",
+              "ToolTip": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\GadjetsStore.csproj",
+              "RelativeToolTip": "GadjetsStore\\GadjetsStore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T20:52:25.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.js",
+              "DocumentMoniker": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
+              "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Register.js",
+              "ToolTip": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
+              "RelativeToolTip": "GadjetsStore\\wwwroot\\Register.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-20T20:52:25.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwvz4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:26:58.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Update.js",
+              "DocumentMoniker": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.js",
+              "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Update.js",
+              "ToolTip": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.js",
+              "RelativeToolTip": "GadjetsStore\\wwwroot\\Update.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-20T20:52:25.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:26:24.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "GadjetsStore\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "GadjetsStore\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:52:25.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.html",
+              "DocumentMoniker": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
+              "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Update.html",
+              "ToolTip": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
+              "RelativeToolTip": "GadjetsStore\\wwwroot\\Update.html",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-20T20:52:25.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.js",
+              "DocumentMoniker": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
+              "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Home.js",
+              "ToolTip": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
+              "RelativeToolTip": "GadjetsStore\\wwwroot\\Home.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-21T14:18:42.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Home.css",
+              "DocumentMoniker": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
+              "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Home.css",
+              "ToolTip": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
+              "RelativeToolTip": "GadjetsStore\\wwwroot\\Home.css",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwDIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-27T13:46:33.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\Program.cs",
+              "RelativeDocumentMoniker": "GadjetsStore\\Program.cs",
+              "ToolTip": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\Program.cs",
+              "RelativeToolTip": "GadjetsStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:14:03.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T09:28:01.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "GadjetsStore\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\LoginRequest.cs",
+              "RelativeToolTip": "GadjetsStore\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T14:31:30.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:52:53.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.NET.TargetFrameworkInference.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-21T16:47:31.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GadjetsStore\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GadjetsStore\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T15:14:06.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

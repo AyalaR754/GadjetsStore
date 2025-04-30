@@ -1,0 +1,2402 @@
+{
+  "Version": 1,
+  "Hash": "gsTWIDktlKnmNLSKDvB93cx4M0jq7OSDE4ajUlbijFg=",
+  "Source": "GadjetsStore",
+  "BasePath": "_content/GadjetsStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GadjetsStore\\wwwroot",
+      "Source": "GadjetsStore",
+      "ContentRoot": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "BasePath": "_content/GadjetsStore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-lp4aev353g.gz",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Home#[.{fingerprint=lp4aev353g}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xfofgnyv55",
+      "Integrity": "fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js"
+    },
+    {
+      "Identity": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\9p9mnhirgz-7wvbtb1gp1.gz",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "UserPassword#[.{fingerprint=7wvbtb1gp1}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2i9sfq9x3c",
+      "Integrity": "5vmFrVe4XGfywxBRXXXE+G3SOVDnMzbsfOZu/S+Jij8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js"
+    },
+    {
+      "Identity": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-mnysxd65s0.gz",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Update#[.{fingerprint=mnysxd65s0}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "x8rdmpsr2n",
+      "Integrity": "MSWchL+w/YcOmsCCVc4w3GbmphTEuNLMQjQmESVJHOg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html"
+    },
+    {
+      "Identity": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Home#[.{fingerprint=kfo2x0ly9m}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "dnh7jze7a8",
+      "Integrity": "GVRRKbi6NAkUvqS1PykZw7yRALttsWunazmpoUrwDew=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html"
+    },
+    {
+      "Identity": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Home#[.{fingerprint=jtcua5jld6}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "86uyfwsh8v",
+      "Integrity": "wENmNUtKjWLrZwH7eukcvtEV19wZGVfftBxjUouGsk8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css"
+    },
+    {
+      "Identity": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-7lekzk2bf4.gz",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Register#[.{fingerprint=7lekzk2bf4}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "johyne642m",
+      "Integrity": "A104hLPyiJ9gzdacza0bTWDywT09veMozepB4h8Pobk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html"
+    },
+    {
+      "Identity": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-4jqwtakdpz.gz",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Register#[.{fingerprint=4jqwtakdpz}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "hyptr8bvn5",
+      "Integrity": "qbM4wyO2dlJpUY45nDzfTPp0b0Hc6lShvu7AX+cjjlg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js"
+    },
+    {
+      "Identity": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Home#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jtcua5jld6",
+      "Integrity": "Z4opYARhl9htQwudbvbZozyZhtr1M4nltkFzrTHMfdk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Home.css"
+    },
+    {
+      "Identity": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Home#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kfo2x0ly9m",
+      "Integrity": "0IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh+P0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Home.html"
+    },
+    {
+      "Identity": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Home#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lp4aev353g",
+      "Integrity": "p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Home.js"
+    },
+    {
+      "Identity": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Register#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7lekzk2bf4",
+      "Integrity": "JcahhgMUh/+Mt1mCwgxPlSA8eh8WNCJACWhvGtnAQyE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Register.html"
+    },
+    {
+      "Identity": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Register#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4jqwtakdpz",
+      "Integrity": "sIyL91I7hlyqCND9Qbmwt9P/VGY+WfYxq3NemAZsSkQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Register.js"
+    },
+    {
+      "Identity": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Update#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mnysxd65s0",
+      "Integrity": "clNaTLiBn5oRLID1hMOZlUsfkM39juolKi6Kyz1HGng=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Update.html"
+    },
+    {
+      "Identity": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "UserPassword#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7wvbtb1gp1",
+      "Integrity": "N88EIIgzKToCwWWs2pravot3FRl1eox5LoaoUtdqaIs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\UserPassword.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Home.css",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001358695652"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "735"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wENmNUtKjWLrZwH7eukcvtEV19wZGVfftBxjUouGsk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Z4opYARhl9htQwudbvbZozyZhtr1M4nltkFzrTHMfdk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z4opYARhl9htQwudbvbZozyZhtr1M4nltkFzrTHMfdk="
+        }
+      ]
+    },
+    {
+      "Route": "Home.css",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1594"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z4opYARhl9htQwudbvbZozyZhtr1M4nltkFzrTHMfdk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z4opYARhl9htQwudbvbZozyZhtr1M4nltkFzrTHMfdk="
+        }
+      ]
+    },
+    {
+      "Route": "Home.css.gz",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wENmNUtKjWLrZwH7eukcvtEV19wZGVfftBxjUouGsk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wENmNUtKjWLrZwH7eukcvtEV19wZGVfftBxjUouGsk8="
+        }
+      ]
+    },
+    {
+      "Route": "Home.html",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001488095238"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "671"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GVRRKbi6NAkUvqS1PykZw7yRALttsWunazmpoUrwDew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh+P0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh+P0="
+        }
+      ]
+    },
+    {
+      "Route": "Home.html",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh+P0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh+P0="
+        }
+      ]
+    },
+    {
+      "Route": "Home.html.gz",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GVRRKbi6NAkUvqS1PykZw7yRALttsWunazmpoUrwDew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GVRRKbi6NAkUvqS1PykZw7yRALttsWunazmpoUrwDew="
+        }
+      ]
+    },
+    {
+      "Route": "Home.js",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-lp4aev353g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001375515818"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "726"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g="
+        }
+      ]
+    },
+    {
+      "Route": "Home.js",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1965"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g="
+        }
+      ]
+    },
+    {
+      "Route": "Home.js.gz",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-lp4aev353g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ="
+        }
+      ]
+    },
+    {
+      "Route": "Home.jtcua5jld6.css",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001358695652"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "735"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wENmNUtKjWLrZwH7eukcvtEV19wZGVfftBxjUouGsk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Z4opYARhl9htQwudbvbZozyZhtr1M4nltkFzrTHMfdk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jtcua5jld6"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z4opYARhl9htQwudbvbZozyZhtr1M4nltkFzrTHMfdk="
+        }
+      ]
+    },
+    {
+      "Route": "Home.jtcua5jld6.css",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1594"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z4opYARhl9htQwudbvbZozyZhtr1M4nltkFzrTHMfdk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jtcua5jld6"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z4opYARhl9htQwudbvbZozyZhtr1M4nltkFzrTHMfdk="
+        }
+      ]
+    },
+    {
+      "Route": "Home.jtcua5jld6.css.gz",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wENmNUtKjWLrZwH7eukcvtEV19wZGVfftBxjUouGsk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jtcua5jld6"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wENmNUtKjWLrZwH7eukcvtEV19wZGVfftBxjUouGsk8="
+        }
+      ]
+    },
+    {
+      "Route": "Home.kfo2x0ly9m.html",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001488095238"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "671"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GVRRKbi6NAkUvqS1PykZw7yRALttsWunazmpoUrwDew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh+P0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kfo2x0ly9m"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh+P0="
+        }
+      ]
+    },
+    {
+      "Route": "Home.kfo2x0ly9m.html",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh+P0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kfo2x0ly9m"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh+P0="
+        }
+      ]
+    },
+    {
+      "Route": "Home.kfo2x0ly9m.html.gz",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GVRRKbi6NAkUvqS1PykZw7yRALttsWunazmpoUrwDew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kfo2x0ly9m"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GVRRKbi6NAkUvqS1PykZw7yRALttsWunazmpoUrwDew="
+        }
+      ]
+    },
+    {
+      "Route": "Home.lp4aev353g.js",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-lp4aev353g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001375515818"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "726"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lp4aev353g"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g="
+        }
+      ]
+    },
+    {
+      "Route": "Home.lp4aev353g.js",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1965"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lp4aev353g"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g="
+        }
+      ]
+    },
+    {
+      "Route": "Home.lp4aev353g.js.gz",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-lp4aev353g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lp4aev353g"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ="
+        }
+      ]
+    },
+    {
+      "Route": "Register.4jqwtakdpz.js",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-4jqwtakdpz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001383125864"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "722"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qbM4wyO2dlJpUY45nDzfTPp0b0Hc6lShvu7AX+cjjlg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:01:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"sIyL91I7hlyqCND9Qbmwt9P/VGY+WfYxq3NemAZsSkQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4jqwtakdpz"
+        },
+        {
+          "Name": "label",
+          "Value": "Register.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sIyL91I7hlyqCND9Qbmwt9P/VGY+WfYxq3NemAZsSkQ="
+        }
+      ]
+    },
+    {
+      "Route": "Register.4jqwtakdpz.js",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sIyL91I7hlyqCND9Qbmwt9P/VGY+WfYxq3NemAZsSkQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:01:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4jqwtakdpz"
+        },
+        {
+          "Name": "label",
+          "Value": "Register.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sIyL91I7hlyqCND9Qbmwt9P/VGY+WfYxq3NemAZsSkQ="
+        }
+      ]
+    },
+    {
+      "Route": "Register.4jqwtakdpz.js.gz",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-4jqwtakdpz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "722"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qbM4wyO2dlJpUY45nDzfTPp0b0Hc6lShvu7AX+cjjlg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:01:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4jqwtakdpz"
+        },
+        {
+          "Name": "label",
+          "Value": "Register.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qbM4wyO2dlJpUY45nDzfTPp0b0Hc6lShvu7AX+cjjlg="
+        }
+      ]
+    },
+    {
+      "Route": "Register.7lekzk2bf4.html",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-7lekzk2bf4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001572327044"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "635"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A104hLPyiJ9gzdacza0bTWDywT09veMozepB4h8Pobk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 14:31:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JcahhgMUh/+Mt1mCwgxPlSA8eh8WNCJACWhvGtnAQyE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7lekzk2bf4"
+        },
+        {
+          "Name": "label",
+          "Value": "Register.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JcahhgMUh/+Mt1mCwgxPlSA8eh8WNCJACWhvGtnAQyE="
+        }
+      ]
+    },
+    {
+      "Route": "Register.7lekzk2bf4.html",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1965"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JcahhgMUh/+Mt1mCwgxPlSA8eh8WNCJACWhvGtnAQyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 14:31:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7lekzk2bf4"
+        },
+        {
+          "Name": "label",
+          "Value": "Register.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JcahhgMUh/+Mt1mCwgxPlSA8eh8WNCJACWhvGtnAQyE="
+        }
+      ]
+    },
+    {
+      "Route": "Register.7lekzk2bf4.html.gz",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-7lekzk2bf4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A104hLPyiJ9gzdacza0bTWDywT09veMozepB4h8Pobk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 14:31:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7lekzk2bf4"
+        },
+        {
+          "Name": "label",
+          "Value": "Register.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A104hLPyiJ9gzdacza0bTWDywT09veMozepB4h8Pobk="
+        }
+      ]
+    },
+    {
+      "Route": "Register.html",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-7lekzk2bf4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001572327044"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "635"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A104hLPyiJ9gzdacza0bTWDywT09veMozepB4h8Pobk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 14:31:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JcahhgMUh/+Mt1mCwgxPlSA8eh8WNCJACWhvGtnAQyE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JcahhgMUh/+Mt1mCwgxPlSA8eh8WNCJACWhvGtnAQyE="
+        }
+      ]
+    },
+    {
+      "Route": "Register.html",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1965"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JcahhgMUh/+Mt1mCwgxPlSA8eh8WNCJACWhvGtnAQyE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 14:31:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JcahhgMUh/+Mt1mCwgxPlSA8eh8WNCJACWhvGtnAQyE="
+        }
+      ]
+    },
+    {
+      "Route": "Register.html.gz",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-7lekzk2bf4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A104hLPyiJ9gzdacza0bTWDywT09veMozepB4h8Pobk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 14:31:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A104hLPyiJ9gzdacza0bTWDywT09veMozepB4h8Pobk="
+        }
+      ]
+    },
+    {
+      "Route": "Register.js",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-4jqwtakdpz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001383125864"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "722"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qbM4wyO2dlJpUY45nDzfTPp0b0Hc6lShvu7AX+cjjlg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:01:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"sIyL91I7hlyqCND9Qbmwt9P/VGY+WfYxq3NemAZsSkQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sIyL91I7hlyqCND9Qbmwt9P/VGY+WfYxq3NemAZsSkQ="
+        }
+      ]
+    },
+    {
+      "Route": "Register.js",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2518"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sIyL91I7hlyqCND9Qbmwt9P/VGY+WfYxq3NemAZsSkQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:01:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sIyL91I7hlyqCND9Qbmwt9P/VGY+WfYxq3NemAZsSkQ="
+        }
+      ]
+    },
+    {
+      "Route": "Register.js.gz",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-4jqwtakdpz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "722"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qbM4wyO2dlJpUY45nDzfTPp0b0Hc6lShvu7AX+cjjlg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 10:01:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qbM4wyO2dlJpUY45nDzfTPp0b0Hc6lShvu7AX+cjjlg="
+        }
+      ]
+    },
+    {
+      "Route": "Update.html",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-mnysxd65s0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001310615990"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "762"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MSWchL+w/YcOmsCCVc4w3GbmphTEuNLMQjQmESVJHOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 14:32:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"clNaTLiBn5oRLID1hMOZlUsfkM39juolKi6Kyz1HGng=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-clNaTLiBn5oRLID1hMOZlUsfkM39juolKi6Kyz1HGng="
+        }
+      ]
+    },
+    {
+      "Route": "Update.html",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"clNaTLiBn5oRLID1hMOZlUsfkM39juolKi6Kyz1HGng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 14:32:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-clNaTLiBn5oRLID1hMOZlUsfkM39juolKi6Kyz1HGng="
+        }
+      ]
+    },
+    {
+      "Route": "Update.html.gz",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-mnysxd65s0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "762"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MSWchL+w/YcOmsCCVc4w3GbmphTEuNLMQjQmESVJHOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 14:32:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MSWchL+w/YcOmsCCVc4w3GbmphTEuNLMQjQmESVJHOg="
+        }
+      ]
+    },
+    {
+      "Route": "Update.mnysxd65s0.html",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-mnysxd65s0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001310615990"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "762"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MSWchL+w/YcOmsCCVc4w3GbmphTEuNLMQjQmESVJHOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 14:32:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"clNaTLiBn5oRLID1hMOZlUsfkM39juolKi6Kyz1HGng=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mnysxd65s0"
+        },
+        {
+          "Name": "label",
+          "Value": "Update.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-clNaTLiBn5oRLID1hMOZlUsfkM39juolKi6Kyz1HGng="
+        }
+      ]
+    },
+    {
+      "Route": "Update.mnysxd65s0.html",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"clNaTLiBn5oRLID1hMOZlUsfkM39juolKi6Kyz1HGng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 14:32:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mnysxd65s0"
+        },
+        {
+          "Name": "label",
+          "Value": "Update.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-clNaTLiBn5oRLID1hMOZlUsfkM39juolKi6Kyz1HGng="
+        }
+      ]
+    },
+    {
+      "Route": "Update.mnysxd65s0.html.gz",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-mnysxd65s0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "762"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MSWchL+w/YcOmsCCVc4w3GbmphTEuNLMQjQmESVJHOg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 14:32:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mnysxd65s0"
+        },
+        {
+          "Name": "label",
+          "Value": "Update.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MSWchL+w/YcOmsCCVc4w3GbmphTEuNLMQjQmESVJHOg="
+        }
+      ]
+    },
+    {
+      "Route": "UserPassword.7wvbtb1gp1.js",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\9p9mnhirgz-7wvbtb1gp1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003322259136"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "300"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5vmFrVe4XGfywxBRXXXE+G3SOVDnMzbsfOZu/S+Jij8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 14:29:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"N88EIIgzKToCwWWs2pravot3FRl1eox5LoaoUtdqaIs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7wvbtb1gp1"
+        },
+        {
+          "Name": "label",
+          "Value": "UserPassword.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N88EIIgzKToCwWWs2pravot3FRl1eox5LoaoUtdqaIs="
+        }
+      ]
+    },
+    {
+      "Route": "UserPassword.7wvbtb1gp1.js",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N88EIIgzKToCwWWs2pravot3FRl1eox5LoaoUtdqaIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 14:29:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7wvbtb1gp1"
+        },
+        {
+          "Name": "label",
+          "Value": "UserPassword.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N88EIIgzKToCwWWs2pravot3FRl1eox5LoaoUtdqaIs="
+        }
+      ]
+    },
+    {
+      "Route": "UserPassword.7wvbtb1gp1.js.gz",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\9p9mnhirgz-7wvbtb1gp1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5vmFrVe4XGfywxBRXXXE+G3SOVDnMzbsfOZu/S+Jij8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 14:29:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7wvbtb1gp1"
+        },
+        {
+          "Name": "label",
+          "Value": "UserPassword.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5vmFrVe4XGfywxBRXXXE+G3SOVDnMzbsfOZu/S+Jij8="
+        }
+      ]
+    },
+    {
+      "Route": "UserPassword.js",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\9p9mnhirgz-7wvbtb1gp1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003322259136"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "300"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5vmFrVe4XGfywxBRXXXE+G3SOVDnMzbsfOZu/S+Jij8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 14:29:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"N88EIIgzKToCwWWs2pravot3FRl1eox5LoaoUtdqaIs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N88EIIgzKToCwWWs2pravot3FRl1eox5LoaoUtdqaIs="
+        }
+      ]
+    },
+    {
+      "Route": "UserPassword.js",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N88EIIgzKToCwWWs2pravot3FRl1eox5LoaoUtdqaIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 14:29:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N88EIIgzKToCwWWs2pravot3FRl1eox5LoaoUtdqaIs="
+        }
+      ]
+    },
+    {
+      "Route": "UserPassword.js.gz",
+      "AssetFile": "C:\\Users\\326770138\\Desktop\\23-04-2025\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\9p9mnhirgz-7wvbtb1gp1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "300"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5vmFrVe4XGfywxBRXXXE+G3SOVDnMzbsfOZu/S+Jij8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 14:29:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5vmFrVe4XGfywxBRXXXE+G3SOVDnMzbsfOZu/S+Jij8="
+        }
+      ]
+    }
+  ]
+}

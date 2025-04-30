@@ -1,0 +1,7 @@
+C:\Users\Rach\Desktop\ayalis\webapi\GadjetsStore\GadjetsStore\obj\Release\net9.0\GadjetsStore.csproj.AssemblyReference.cache
+C:\Users\Rach\Desktop\ayalis\webapi\GadjetsStore\GadjetsStore\obj\Release\net9.0\GadjetsStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rach\Desktop\ayalis\webapi\GadjetsStore\GadjetsStore\obj\Release\net9.0\GadjetsStore.AssemblyInfoInputs.cache
+C:\Users\Rach\Desktop\ayalis\webapi\GadjetsStore\GadjetsStore\obj\Release\net9.0\GadjetsStore.AssemblyInfo.cs
+C:\Users\Rach\Desktop\ayalis\webapi\GadjetsStore\GadjetsStore\obj\Release\net9.0\GadjetsStore.csproj.CoreCompileInputs.cache
+C:\Users\Rach\Desktop\ayalis\webapi\GadjetsStore\GadjetsStore\obj\Release\net9.0\GadjetsStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rach\Desktop\ayalis\webapi\GadjetsStore\GadjetsStore\obj\Release\net9.0\GadjetsStore.MvcApplicationPartsAssemblyInfo.cache
