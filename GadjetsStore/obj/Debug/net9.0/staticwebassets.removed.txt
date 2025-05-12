@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\תהילה\API\GadjetsStore\GadjetsStore\wwwroot\Home.js
+C:\Users\user\Desktop\תהילה\API\GadjetsStore\GadjetsStore\wwwroot\Update.html
+C:\Users\user\Desktop\תהילה\API\GadjetsStore\GadjetsStore\wwwroot\Home.html
+C:\Users\user\Desktop\תהילה\API\GadjetsStore\GadjetsStore\wwwroot\Home.css
+C:\Users\user\Desktop\תהילה\API\GadjetsStore\GadjetsStore\wwwroot\Register.html
+C:\Users\user\Desktop\תהילה\API\GadjetsStore\GadjetsStore\wwwroot\Register.js

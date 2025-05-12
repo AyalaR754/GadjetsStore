@@ -1,0 +1,67 @@
+﻿<!--<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <label for="FirstName">first name</label>
+    <input type="text" id="FirstName" />
+    <br />
+    <br />
+    <label for="LastName">last name</label>
+    <input type="text" id="LastName" />
+    <br />
+    <br />
+    <label for="UserName">user name</label>
+    <input type="text" id="UserName" />
+    <br />
+    <br />
+    <label for="Password">password</label>
+    <input type="password" id="Password" />
+    <br />
+    <br />
+
+    <button onclick="register()">Register</button>
+
+    <script src="Register.js"></script>
+</body>
+</html>-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration</title>
+    <link rel="stylesheet" href="Home.css"> 
+</head>
+<body>
+    <div class="card">
+        <h2>Register</h2>
+        <!--<form>-->
+        <label for="FirstName">First Name</label>
+        <input type="text" id="FirstName" required placeholder="Enter first name" />
+
+        <label for="LastName">Last Name</label>
+        <input type="text" id="LastName" required placeholder="Enter last name" />
+
+        <label for="UserName">User Name</label>
+        <input type="text" id="UserName" required placeholder="Enter username" />
+
+        <label for="Password">Password</label>
+        <input type="password" id="Password" required placeholder="Enter password" />
+
+        <button onclick="CheckPassword()">CheckPassword</button>
+        <br />
+        <br />
+        <button onclick="register()">Register</button>
+
+        <script src="Register.js"></script>
+        <script src="UserPassword.js"></script>
+
+        <!--</form>-->
+        <a href="./Home.html">Already have an account? Login</a> <!-- אפשרות לעבור לדף ההתחברות -->
+    </div>
+</body>
+</html>

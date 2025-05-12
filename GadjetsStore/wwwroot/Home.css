@@ -1,0 +1,65 @@
+﻿body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+button {
+    background: linear-gradient(45deg, #ff6b6b, #ff9f43, #ffd700, #4caf50, #2196f3);  גרדיאנט צבעוני 
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    width: 100%;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background 0.5s ease, transform 0.3s ease;
+    background-size: 400% 400%;  גרדיאנט זורם 
+}
+
+    button:hover {
+        background-position: right center;  שינוי המיקום של הגרדיאנט כשעוברים עם העכבר 
+        transform: scale(1.05);  הזזת הכפתור מעט כדי להוסיף אפקט 
+    }
+
+    button:active {
+        transform: scale(0.95);  שינוי גודל קטן כשנלחץ 
+    }
+
+
+
+  
+
+a {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;  Makes padding and border count towards total width 
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 300px;
+    padding-left: 20px;  Left padding for spacing 
+    padding-right: 20px;  Right padding for spacing 
+}

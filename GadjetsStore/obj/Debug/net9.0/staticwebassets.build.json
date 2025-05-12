@@ -1,0 +1,2062 @@
+{
+  "Version": 1,
+  "Hash": "Y30uE8l69OXc/4pgm5GklQvffi9K53rd5GHr6cSFujs=",
+  "Source": "GadjetsStore",
+  "BasePath": "_content/GadjetsStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GadjetsStore\\wwwroot",
+      "Source": "GadjetsStore",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "BasePath": "_content/GadjetsStore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-lp4aev353g.gz",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Home#[.{fingerprint=lp4aev353g}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xfofgnyv55",
+      "Integrity": "fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-pez7f2my5c.gz",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Update#[.{fingerprint=pez7f2my5c}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "z7w29noxei",
+      "Integrity": "nzRjfkf6E5YervetK2Vrv4baT/kuhI8Wfyf+Yt+KFXE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Home#[.{fingerprint=kfo2x0ly9m}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "dnh7jze7a8",
+      "Integrity": "GVRRKbi6NAkUvqS1PykZw7yRALttsWunazmpoUrwDew=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Home#[.{fingerprint=jtcua5jld6}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "86uyfwsh8v",
+      "Integrity": "wENmNUtKjWLrZwH7eukcvtEV19wZGVfftBxjUouGsk8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-j2x4ukgfcd.gz",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Register#[.{fingerprint=j2x4ukgfcd}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zzyfao08yf",
+      "Integrity": "Efck/v3u9G6jh0R6AvG1qfLCbxZboBcYLk6miePx6bw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-87bp0d20qr.gz",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Register#[.{fingerprint=87bp0d20qr}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wmkftfo3bq",
+      "Integrity": "OC95AwnSEAQ6kEl8UcQDw84tEsor3XmWZKBLK/Zl1aQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Home#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jtcua5jld6",
+      "Integrity": "Z4opYARhl9htQwudbvbZozyZhtr1M4nltkFzrTHMfdk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Home.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Home#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kfo2x0ly9m",
+      "Integrity": "0IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh+P0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Home.html"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Home#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lp4aev353g",
+      "Integrity": "p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Home.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Register#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j2x4ukgfcd",
+      "Integrity": "lRHwfKLLS3ubYcqVQoVpB5OtVtPRudYhr4OAXXafv38=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Register.html"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Register#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "87bp0d20qr",
+      "Integrity": "DIePoaMDj1rBqv4w/9VRKsEfYQfYBNxKzdmfMTP8SkE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Register.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
+      "SourceId": "GadjetsStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "BasePath": "_content/GadjetsStore",
+      "RelativePath": "Update#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pez7f2my5c",
+      "Integrity": "/7n/zDF2aiyDIJAtmURMYhYiQwQDxFZ79qwZ6gGLN5M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Update.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Home.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001358695652"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "735"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wENmNUtKjWLrZwH7eukcvtEV19wZGVfftBxjUouGsk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Z4opYARhl9htQwudbvbZozyZhtr1M4nltkFzrTHMfdk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z4opYARhl9htQwudbvbZozyZhtr1M4nltkFzrTHMfdk="
+        }
+      ]
+    },
+    {
+      "Route": "Home.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1594"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z4opYARhl9htQwudbvbZozyZhtr1M4nltkFzrTHMfdk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z4opYARhl9htQwudbvbZozyZhtr1M4nltkFzrTHMfdk="
+        }
+      ]
+    },
+    {
+      "Route": "Home.css.gz",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wENmNUtKjWLrZwH7eukcvtEV19wZGVfftBxjUouGsk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wENmNUtKjWLrZwH7eukcvtEV19wZGVfftBxjUouGsk8="
+        }
+      ]
+    },
+    {
+      "Route": "Home.html",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001488095238"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "671"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GVRRKbi6NAkUvqS1PykZw7yRALttsWunazmpoUrwDew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh+P0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh+P0="
+        }
+      ]
+    },
+    {
+      "Route": "Home.html",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh+P0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh+P0="
+        }
+      ]
+    },
+    {
+      "Route": "Home.html.gz",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GVRRKbi6NAkUvqS1PykZw7yRALttsWunazmpoUrwDew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GVRRKbi6NAkUvqS1PykZw7yRALttsWunazmpoUrwDew="
+        }
+      ]
+    },
+    {
+      "Route": "Home.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-lp4aev353g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001375515818"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "726"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g="
+        }
+      ]
+    },
+    {
+      "Route": "Home.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1965"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g="
+        }
+      ]
+    },
+    {
+      "Route": "Home.js.gz",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-lp4aev353g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ="
+        }
+      ]
+    },
+    {
+      "Route": "Home.jtcua5jld6.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001358695652"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "735"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wENmNUtKjWLrZwH7eukcvtEV19wZGVfftBxjUouGsk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Z4opYARhl9htQwudbvbZozyZhtr1M4nltkFzrTHMfdk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jtcua5jld6"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z4opYARhl9htQwudbvbZozyZhtr1M4nltkFzrTHMfdk="
+        }
+      ]
+    },
+    {
+      "Route": "Home.jtcua5jld6.css",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1594"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z4opYARhl9htQwudbvbZozyZhtr1M4nltkFzrTHMfdk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jtcua5jld6"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z4opYARhl9htQwudbvbZozyZhtr1M4nltkFzrTHMfdk="
+        }
+      ]
+    },
+    {
+      "Route": "Home.jtcua5jld6.css.gz",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "735"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wENmNUtKjWLrZwH7eukcvtEV19wZGVfftBxjUouGsk8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jtcua5jld6"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wENmNUtKjWLrZwH7eukcvtEV19wZGVfftBxjUouGsk8="
+        }
+      ]
+    },
+    {
+      "Route": "Home.kfo2x0ly9m.html",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001488095238"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "671"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GVRRKbi6NAkUvqS1PykZw7yRALttsWunazmpoUrwDew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"0IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh+P0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kfo2x0ly9m"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh+P0="
+        }
+      ]
+    },
+    {
+      "Route": "Home.kfo2x0ly9m.html",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1857"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh+P0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kfo2x0ly9m"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh+P0="
+        }
+      ]
+    },
+    {
+      "Route": "Home.kfo2x0ly9m.html.gz",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "671"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GVRRKbi6NAkUvqS1PykZw7yRALttsWunazmpoUrwDew=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kfo2x0ly9m"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GVRRKbi6NAkUvqS1PykZw7yRALttsWunazmpoUrwDew="
+        }
+      ]
+    },
+    {
+      "Route": "Home.lp4aev353g.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-lp4aev353g.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001375515818"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "726"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lp4aev353g"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g="
+        }
+      ]
+    },
+    {
+      "Route": "Home.lp4aev353g.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1965"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lp4aev353g"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g="
+        }
+      ]
+    },
+    {
+      "Route": "Home.lp4aev353g.js.gz",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-lp4aev353g.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lp4aev353g"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ="
+        }
+      ]
+    },
+    {
+      "Route": "Register.87bp0d20qr.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-87bp0d20qr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001466275660"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "681"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OC95AwnSEAQ6kEl8UcQDw84tEsor3XmWZKBLK/Zl1aQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DIePoaMDj1rBqv4w/9VRKsEfYQfYBNxKzdmfMTP8SkE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "87bp0d20qr"
+        },
+        {
+          "Name": "label",
+          "Value": "Register.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DIePoaMDj1rBqv4w/9VRKsEfYQfYBNxKzdmfMTP8SkE="
+        }
+      ]
+    },
+    {
+      "Route": "Register.87bp0d20qr.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DIePoaMDj1rBqv4w/9VRKsEfYQfYBNxKzdmfMTP8SkE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "87bp0d20qr"
+        },
+        {
+          "Name": "label",
+          "Value": "Register.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DIePoaMDj1rBqv4w/9VRKsEfYQfYBNxKzdmfMTP8SkE="
+        }
+      ]
+    },
+    {
+      "Route": "Register.87bp0d20qr.js.gz",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-87bp0d20qr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OC95AwnSEAQ6kEl8UcQDw84tEsor3XmWZKBLK/Zl1aQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "87bp0d20qr"
+        },
+        {
+          "Name": "label",
+          "Value": "Register.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OC95AwnSEAQ6kEl8UcQDw84tEsor3XmWZKBLK/Zl1aQ="
+        }
+      ]
+    },
+    {
+      "Route": "Register.html",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-j2x4ukgfcd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001620745543"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "616"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Efck/v3u9G6jh0R6AvG1qfLCbxZboBcYLk6miePx6bw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lRHwfKLLS3ubYcqVQoVpB5OtVtPRudYhr4OAXXafv38=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lRHwfKLLS3ubYcqVQoVpB5OtVtPRudYhr4OAXXafv38="
+        }
+      ]
+    },
+    {
+      "Route": "Register.html",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lRHwfKLLS3ubYcqVQoVpB5OtVtPRudYhr4OAXXafv38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lRHwfKLLS3ubYcqVQoVpB5OtVtPRudYhr4OAXXafv38="
+        }
+      ]
+    },
+    {
+      "Route": "Register.html.gz",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-j2x4ukgfcd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Efck/v3u9G6jh0R6AvG1qfLCbxZboBcYLk6miePx6bw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Efck/v3u9G6jh0R6AvG1qfLCbxZboBcYLk6miePx6bw="
+        }
+      ]
+    },
+    {
+      "Route": "Register.j2x4ukgfcd.html",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-j2x4ukgfcd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001620745543"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "616"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Efck/v3u9G6jh0R6AvG1qfLCbxZboBcYLk6miePx6bw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lRHwfKLLS3ubYcqVQoVpB5OtVtPRudYhr4OAXXafv38=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j2x4ukgfcd"
+        },
+        {
+          "Name": "label",
+          "Value": "Register.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lRHwfKLLS3ubYcqVQoVpB5OtVtPRudYhr4OAXXafv38="
+        }
+      ]
+    },
+    {
+      "Route": "Register.j2x4ukgfcd.html",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1862"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lRHwfKLLS3ubYcqVQoVpB5OtVtPRudYhr4OAXXafv38=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j2x4ukgfcd"
+        },
+        {
+          "Name": "label",
+          "Value": "Register.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lRHwfKLLS3ubYcqVQoVpB5OtVtPRudYhr4OAXXafv38="
+        }
+      ]
+    },
+    {
+      "Route": "Register.j2x4ukgfcd.html.gz",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-j2x4ukgfcd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Efck/v3u9G6jh0R6AvG1qfLCbxZboBcYLk6miePx6bw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j2x4ukgfcd"
+        },
+        {
+          "Name": "label",
+          "Value": "Register.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Efck/v3u9G6jh0R6AvG1qfLCbxZboBcYLk6miePx6bw="
+        }
+      ]
+    },
+    {
+      "Route": "Register.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-87bp0d20qr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001466275660"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "681"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OC95AwnSEAQ6kEl8UcQDw84tEsor3XmWZKBLK/Zl1aQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DIePoaMDj1rBqv4w/9VRKsEfYQfYBNxKzdmfMTP8SkE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DIePoaMDj1rBqv4w/9VRKsEfYQfYBNxKzdmfMTP8SkE="
+        }
+      ]
+    },
+    {
+      "Route": "Register.js",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2377"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DIePoaMDj1rBqv4w/9VRKsEfYQfYBNxKzdmfMTP8SkE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DIePoaMDj1rBqv4w/9VRKsEfYQfYBNxKzdmfMTP8SkE="
+        }
+      ]
+    },
+    {
+      "Route": "Register.js.gz",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-87bp0d20qr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OC95AwnSEAQ6kEl8UcQDw84tEsor3XmWZKBLK/Zl1aQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OC95AwnSEAQ6kEl8UcQDw84tEsor3XmWZKBLK/Zl1aQ="
+        }
+      ]
+    },
+    {
+      "Route": "Update.html",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-pez7f2my5c.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001362397820"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "733"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzRjfkf6E5YervetK2Vrv4baT/kuhI8Wfyf+Yt+KFXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/7n/zDF2aiyDIJAtmURMYhYiQwQDxFZ79qwZ6gGLN5M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/7n/zDF2aiyDIJAtmURMYhYiQwQDxFZ79qwZ6gGLN5M="
+        }
+      ]
+    },
+    {
+      "Route": "Update.html",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/7n/zDF2aiyDIJAtmURMYhYiQwQDxFZ79qwZ6gGLN5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/7n/zDF2aiyDIJAtmURMYhYiQwQDxFZ79qwZ6gGLN5M="
+        }
+      ]
+    },
+    {
+      "Route": "Update.html.gz",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-pez7f2my5c.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzRjfkf6E5YervetK2Vrv4baT/kuhI8Wfyf+Yt+KFXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzRjfkf6E5YervetK2Vrv4baT/kuhI8Wfyf+Yt+KFXE="
+        }
+      ]
+    },
+    {
+      "Route": "Update.pez7f2my5c.html",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-pez7f2my5c.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001362397820"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "733"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzRjfkf6E5YervetK2Vrv4baT/kuhI8Wfyf+Yt+KFXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/7n/zDF2aiyDIJAtmURMYhYiQwQDxFZ79qwZ6gGLN5M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pez7f2my5c"
+        },
+        {
+          "Name": "label",
+          "Value": "Update.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/7n/zDF2aiyDIJAtmURMYhYiQwQDxFZ79qwZ6gGLN5M="
+        }
+      ]
+    },
+    {
+      "Route": "Update.pez7f2my5c.html",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/7n/zDF2aiyDIJAtmURMYhYiQwQDxFZ79qwZ6gGLN5M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pez7f2my5c"
+        },
+        {
+          "Name": "label",
+          "Value": "Update.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/7n/zDF2aiyDIJAtmURMYhYiQwQDxFZ79qwZ6gGLN5M="
+        }
+      ]
+    },
+    {
+      "Route": "Update.pez7f2my5c.html.gz",
+      "AssetFile": "C:\\Users\\user\\Desktop\\תהילה\\API\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-pez7f2my5c.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nzRjfkf6E5YervetK2Vrv4baT/kuhI8Wfyf+Yt+KFXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 20:12:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pez7f2my5c"
+        },
+        {
+          "Name": "label",
+          "Value": "Update.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nzRjfkf6E5YervetK2Vrv4baT/kuhI8Wfyf+Yt+KFXE="
+        }
+      ]
+    }
+  ]
+}
