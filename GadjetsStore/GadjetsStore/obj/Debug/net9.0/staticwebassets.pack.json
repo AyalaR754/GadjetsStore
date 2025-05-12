@@ -1,31 +1,31 @@
 {
   "Files": [
     {
-      "Id": "M:\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
+      "Id": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
       "PackagePath": "staticwebassets\\Home.css"
     },
     {
-      "Id": "M:\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
+      "Id": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
       "PackagePath": "staticwebassets\\Home.html"
     },
     {
-      "Id": "M:\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
+      "Id": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
       "PackagePath": "staticwebassets\\Home.js"
     },
     {
-      "Id": "M:\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
+      "Id": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
       "PackagePath": "staticwebassets\\Register.html"
     },
     {
-      "Id": "M:\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
+      "Id": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
       "PackagePath": "staticwebassets\\Register.js"
     },
     {
-      "Id": "M:\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
+      "Id": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
       "PackagePath": "staticwebassets\\Update.html"
     },
     {
-      "Id": "M:\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js",
+      "Id": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js",
       "PackagePath": "staticwebassets\\UserPassword.js"
     },
     {

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "M:\\api\\GadjetsStore\\Entities\\Entities.csproj": {}
+    "M:\\API\\api\\GadjetsStore\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "M:\\api\\GadjetsStore\\Entities\\Entities.csproj": {
+    "M:\\API\\api\\GadjetsStore\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\api\\GadjetsStore\\Entities\\Entities.csproj",
+        "projectUniqueName": "M:\\API\\api\\GadjetsStore\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "M:\\api\\GadjetsStore\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\326770138\\.nuget\\packages\\",
-        "outputPath": "M:\\api\\GadjetsStore\\Entities\\obj\\",
+        "projectPath": "M:\\API\\api\\GadjetsStore\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\328227616\\.nuget\\packages\\",
+        "outputPath": "M:\\API\\api\\GadjetsStore\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\326770138\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\328227616\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,6 +50,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

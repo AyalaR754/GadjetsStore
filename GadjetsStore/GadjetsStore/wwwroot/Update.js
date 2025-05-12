@@ -7,8 +7,8 @@
         return;
     }
     console.log(userJson)
-        const user = JSON.parse(userJson);
-
+    const user = JSON.parse(userJson);
+    console.log(user)
         console.log(userJson.userId)
     
         console.log(document.getElementById("FirstName"));
@@ -28,12 +28,12 @@
         const changeUser = {
             FirstName: FirstName1,
             LastName: LastName1,
-            UserName: UserName1,
+            Email: UserName1,
             Password: Password1,
-            userId: user.userId
+            id: user.id
         }
         try {
-            const response = await fetch(`api/Users/${changeUser.userId}`, {
+            const response = await fetch(`api/Users/${changeUser.id}`, {
                 method: 'PUT',
                 headers: {
                     "Content-type": 'application/json'

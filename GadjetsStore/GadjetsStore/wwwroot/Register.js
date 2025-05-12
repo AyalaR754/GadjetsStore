@@ -21,7 +21,7 @@
             const newUser = {
                 FirstName: FirstName1,
                 LastName: LastName1,
-                UserName: UserName1,
+                Email: UserName1,
                 Password: Password1,
                 userId:0
             }

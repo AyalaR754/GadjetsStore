@@ -1,0 +1,60 @@
+﻿#nullable disable
+using System;
+using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
+
+namespace Entities;
+
+public partial class GadjetsStoreDBContext : DbContext
+{
+    public GadjetsStoreDBContext(DbContextOptions<GadjetsStoreDBContext> options)
+        : base(options)
+    {
+    }
+
+    public virtual DbSet<Category> Categories { get; set; }
+
+    public virtual DbSet<Order> Orders { get; set; }
+
+    public virtual DbSet<OrderItem> OrderItems { get; set; }
+
+    public virtual DbSet<Product> Products { get; set; }
+
+    public virtual DbSet<User> Users { get; set; }
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<Order>(entity =>
+        {
+            entity.HasOne(d => d.User).WithMany(p => p.Orders)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_Order_User");
+        });
+
+        modelBuilder.Entity<OrderItem>(entity =>
+        {
+            entity.HasOne(d => d.Order).WithMany(p => p.OrderItems)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_Order_Item_Order");
+
+            entity.HasOne(d => d.Product).WithMany(p => p.OrderItems)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_Order_Item_Product");
+        });
+
+        modelBuilder.Entity<Product>(entity =>
+        {
+            entity.Property(e => e.Description).IsFixedLength();
+            entity.Property(e => e.Name).IsFixedLength();
+            entity.Property(e => e.UrlImage).IsFixedLength();
+
+            entity.HasOne(d => d.Category).WithMany(p => p.Products)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_Product_category");
+        });
+
+        OnModelCreatingPartial(modelBuilder);
+    }
+
+    partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
+}
