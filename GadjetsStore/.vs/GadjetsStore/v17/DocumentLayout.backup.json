@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "M:\\API\\api\\GadjetsStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|m:\\api\\api\\gadjetsstore\\gadjetsstore\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|m:\\api\\api\\gadjetsstore\\gadjetsstore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|m:\\api\\api\\gadjetsstore\\gadjetsstore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|m:\\api\\api\\gadjetsstore\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|solutionrelative:services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|m:\\api\\api\\gadjetsstore\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|m:\\api\\api\\gadjetsstore\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|m:\\api\\api\\gadjetsstore\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|m:\\api\\api\\gadjetsstore\\repositories\\gadjetsstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\gadjetsstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|m:\\api\\api\\gadjetsstore\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|m:\\api\\api\\gadjetsstore\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|m:\\api\\api\\gadjetsstore\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|m:\\api\\api\\gadjetsstore\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|m:\\api\\api\\gadjetsstore\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|m:\\api\\api\\gadjetsstore\\gadjetsstore\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\wwwroot\\update.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|m:\\api\\api\\gadjetsstore\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,14 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|m:\\api\\api\\gadjetsstore\\gadjetsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|m:\\api\\api\\gadjetsstore\\repositories\\gadjetsstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\gadjetsstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|m:\\api\\api\\gadjetsstore\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{315DCAF3-03DC-471F-81D1-2C8FEF82CEB0}|Entities\\Entities.csproj|m:\\api\\api\\gadjetsstore\\entities\\gadjetsstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,10 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|m:\\api\\api\\gadjetsstore\\gadjetsstore\\gadjetsstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\gadjetsstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|m:\\api\\api\\gadjetsstore\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|m:\\api\\api\\gadjetsstore\\gadjetsstore\\wwwroot\\update.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -117,11 +137,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Register.js",
               "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
               "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Register.js",
@@ -130,12 +150,128 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-20T20:52:25.498Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICategoryService.cs",
+              "ToolTip": "M:\\API\\api\\GadjetsStore\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:46:59.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
+              "ToolTip": "M:\\API\\api\\GadjetsStore\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:45:29.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "M:\\API\\api\\GadjetsStore\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:41:10.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "M:\\API\\api\\GadjetsStore\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:35:36.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "M:\\API\\api\\GadjetsStore\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:26:24.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "M:\\API\\api\\GadjetsStore\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:26:58.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "GadjetsStore\\Controllers\\CategoryController.cs",
+              "ToolTip": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "GadjetsStore\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:31:58.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "GadjetsStore\\Controllers\\UsersController.cs",
+              "ToolTip": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "GadjetsStore\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwDIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:52:25.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "M:\\API\\api\\GadjetsStore\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T09:28:01.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
@@ -148,160 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Entities\\OrderItem.cs",
-              "RelativeDocumentMoniker": "Entities\\OrderItem.cs",
-              "ToolTip": "M:\\API\\api\\GadjetsStore\\Entities\\OrderItem.cs",
-              "RelativeToolTip": "Entities\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T12:05:08.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Product.cs",
-              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Entities\\Product.cs",
-              "ToolTip": "M:\\API\\api\\GadjetsStore\\Entities\\Product.cs",
-              "RelativeToolTip": "Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T12:05:23.722Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Update.js",
-              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.js",
-              "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Update.js",
-              "ToolTip": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.js",
-              "RelativeToolTip": "GadjetsStore\\wwwroot\\Update.js",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-20T20:52:25.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Entities\\User.cs",
-              "ToolTip": "M:\\API\\api\\GadjetsStore\\Entities\\User.cs",
-              "RelativeToolTip": "Entities\\User.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:21:34.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "M:\\API\\api\\GadjetsStore\\Services\\UserService.cs",
-              "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAiwEIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T11:26:58.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "GadjetsStore\\Controllers\\UsersController.cs",
-              "ToolTip": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "GadjetsStore\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAswFwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T20:52:25.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
-              "ToolTip": "M:\\API\\api\\GadjetsStore\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAUwCcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T11:26:24.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GadjetsStoreDBContext.cs",
-              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Repositories\\GadjetsStoreDBContext.cs",
-              "RelativeDocumentMoniker": "Repositories\\GadjetsStoreDBContext.cs",
-              "ToolTip": "M:\\API\\api\\GadjetsStore\\Repositories\\GadjetsStoreDBContext.cs",
-              "RelativeToolTip": "Repositories\\GadjetsStoreDBContext.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAIAywDoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:10:08.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "Services\\IUserService.cs",
-              "ToolTip": "M:\\API\\api\\GadjetsStore\\Services\\IUserService.cs",
-              "RelativeToolTip": "Services\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T12:45:38.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\Program.cs",
-              "RelativeDocumentMoniker": "GadjetsStore\\Program.cs",
-              "ToolTip": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\Program.cs",
-              "RelativeToolTip": "GadjetsStore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T15:14:03.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Category.cs",
-              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Entities\\Category.cs",
-              "ToolTip": "M:\\API\\api\\GadjetsStore\\Entities\\Category.cs",
-              "RelativeToolTip": "Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T12:05:30.137Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "GadjetsStoreDBContext.cs",
-              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Entities\\GadjetsStoreDBContext.cs",
-              "RelativeDocumentMoniker": "Entities\\GadjetsStoreDBContext.cs",
-              "ToolTip": "M:\\API\\api\\GadjetsStore\\Entities\\GadjetsStoreDBContext.cs",
-              "RelativeToolTip": "Entities\\GadjetsStoreDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:09:35.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Repositories.csproj",
               "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Repositories\\Repositories.csproj",
               "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
@@ -314,7 +297,116 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GadjetsStoreDBContext.cs",
+              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Repositories\\GadjetsStoreDBContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\GadjetsStoreDBContext.cs",
+              "ToolTip": "M:\\API\\api\\GadjetsStore\\Repositories\\GadjetsStoreDBContext.cs",
+              "RelativeToolTip": "Repositories\\GadjetsStoreDBContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAD4vzoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:10:08.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "M:\\API\\api\\GadjetsStore\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:21:34.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Update.js",
+              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.js",
+              "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Update.js",
+              "ToolTip": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.js",
+              "RelativeToolTip": "GadjetsStore\\wwwroot\\Update.js",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-20T20:52:25.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "M:\\API\\api\\GadjetsStore\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:05:23.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Entities\\OrderItem.cs",
+              "ToolTip": "M:\\API\\api\\GadjetsStore\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:05:08.374Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "M:\\API\\api\\GadjetsStore\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:45:38.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\Program.cs",
+              "RelativeDocumentMoniker": "GadjetsStore\\Program.cs",
+              "ToolTip": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\Program.cs",
+              "RelativeToolTip": "GadjetsStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:14:03.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Category.cs",
+              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Category.cs",
+              "ToolTip": "M:\\API\\api\\GadjetsStore\\Entities\\Category.cs",
+              "RelativeToolTip": "Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:05:30.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GadjetsStoreDBContext.cs",
+              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Entities\\GadjetsStoreDBContext.cs",
+              "RelativeDocumentMoniker": "Entities\\GadjetsStoreDBContext.cs",
+              "ToolTip": "M:\\API\\api\\GadjetsStore\\Entities\\GadjetsStoreDBContext.cs",
+              "RelativeToolTip": "Entities\\GadjetsStoreDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:09:35.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Home.css",
               "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
               "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Home.css",
@@ -326,19 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Services.csproj",
-              "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Services\\Services.csproj",
-              "RelativeDocumentMoniker": "Services\\Services.csproj",
-              "ToolTip": "M:\\API\\api\\GadjetsStore\\Services\\Services.csproj",
-              "RelativeToolTip": "Services\\Services.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-23T09:28:01.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "Order.cs",
               "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Entities\\Order.cs",
@@ -350,18 +430,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "GadjetsStore",
               "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\GadjetsStore.csproj",
               "RelativeDocumentMoniker": "GadjetsStore\\GadjetsStore.csproj",
               "ToolTip": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\GadjetsStore.csproj",
               "RelativeToolTip": "GadjetsStore\\GadjetsStore.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T12:05:35Z"
+              "WhenOpened": "2025-05-12T12:05:35Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "GadjetsStore.csproj",
               "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\GadjetsStore.csproj",
               "RelativeDocumentMoniker": "GadjetsStore\\GadjetsStore.csproj",
@@ -369,11 +450,12 @@
               "RelativeToolTip": "GadjetsStore\\GadjetsStore.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-20T20:52:25.527Z"
+              "WhenOpened": "2025-03-20T20:52:25.527Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "Update.html",
               "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
               "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Update.html",
@@ -385,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "UserPassword.js",
               "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js",
               "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\UserPassword.js",
@@ -397,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\LoginRequest.cs",
               "RelativeDocumentMoniker": "GadjetsStore\\LoginRequest.cs",
@@ -409,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Home.js",
               "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
               "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Home.js",
@@ -421,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "Register.html",
               "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
               "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Register.html",
@@ -433,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "Microsoft.NET.TargetFrameworkInference.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
@@ -442,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "launchSettings.json",
               "DocumentMoniker": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "GadjetsStore\\Properties\\launchSettings.json",
