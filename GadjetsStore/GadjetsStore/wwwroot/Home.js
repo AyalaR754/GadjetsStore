@@ -3,26 +3,24 @@
 
 const login = async () => {
     alert("rger")
-    console.log("************")
-    let userName = document.getElementById("UserName").value;
+ 
+    let email = document.getElementById("UserName").value;
     let password = document.getElementById("Password").value;
-    if (!UserName || !Password) {
-        alert("username and password are required");
+    if (!email || !Password) {
+        alert("email and password are required");
     }  
     const userForLogin = {       
       Password: password,
-       UserName: userName
+        Email: email
     }
     try {
-        const response = await fetch(`api/Users/login?UserName=${userForLogin.UserName}&Password=${userForLogin.Password}`, {
+
+        const response = await fetch(`api/Users/login`, {
             method: 'POST',
             headers: {
                 "Content-type": 'application/json'
             },
-            query: {
-                UserName: userForLogin.UserName,
-                Password: userForLogin.Password
-            }
+            "body": JSON.stringify(userForLogin)
         });
 
         if (response.ok) {

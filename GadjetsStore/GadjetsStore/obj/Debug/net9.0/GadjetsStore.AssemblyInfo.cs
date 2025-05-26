@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GadjetsStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b63b696496bece5ff62784d575ad6bf997e0bde1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e2979523f0ed7de2ad8b0b8fe5f6bb5151aa8e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("GadjetsStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GadjetsStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,6 @@
-﻿using Entities;
+﻿using AutoMapper;
+using DTOs;
+using Entities;
 
 using Repositories;
 using System;
@@ -10,18 +12,21 @@ using System.Threading.Tasks;
 
 namespace Services
 {
-    class CategoryService : ICategoryService
+    public class CategoryService : ICategoryService
     {
         private readonly ICategoryRepository _categoryRepository;
+        private readonly IMapper _mapper;
 
-        public CategoryService(ICategoryRepository categoryRepository)
+
+        public CategoryService(ICategoryRepository categoryRepository, IMapper mapper)
         {
             _categoryRepository = categoryRepository;
+            _mapper = mapper;
         }
-        public async Task<List<Category>> Get()
+        public async Task<List<CategoryDTO>> Get()
         {
             List<Category> categories = await _categoryRepository.Get();
-            return categories;
+            return _mapper.Map<List<Category>, List<CategoryDTO>>(categories);
         }
     }
 }

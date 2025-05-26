@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace Repositories
 {
-    class CategoryRepository : ICategoryRepository
+    public class CategoryRepository : ICategoryRepository
     {
-        GadjetsStoreDBContext _gadjetsStoreDBContext;
+        GadjetsStoreDBContext  _gadjetsStoreDBContext;
 
         public CategoryRepository(GadjetsStoreDBContext gadjetsStoreDBContext)
         {
@@ -19,9 +19,8 @@ namespace Repositories
         public async Task<List<Category>> Get()
         {
 
-            List<Category> Categories = await _gadjetsStoreDBContext.Categories.ToListAsync();
+        List<Category> Categories = await _gadjetsStoreDBContext.Categories.Include(c => c.Products).ToListAsync();
             return Categories;
-
         }
-    }
+}
 }

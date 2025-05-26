@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Entities;
 using Services;
+using DTOs;
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace GadjetsStore.Controllers
@@ -17,35 +18,11 @@ namespace GadjetsStore.Controllers
         }
         // GET: api/<CategoryController>
         [HttpGet]
-        public async Task<ActionResult<Category>> Get()
+        public async Task<ActionResult<CategoryDTO>> Get()
         {
-            List<Category> categories = await _categoryService.Get();
+            List<CategoryDTO> categories = await _categoryService.Get();
             return Ok(categories);
         }
 
-        // GET api/<CategoryController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
-        // POST api/<CategoryController>
-        [HttpPost]
-        public void Post([FromBody]string value)
-        {
-        }
-
-        // PUT api/<CategoryController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody]string value)
-        {
-        }
-
-        // DELETE api/<CategoryController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
     }
 }

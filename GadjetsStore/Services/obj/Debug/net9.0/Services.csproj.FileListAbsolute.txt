@@ -16,3 +16,8 @@ M:\API\api\GadjetsStore\Services\obj\Debug\net9.0\Services.dll
 M:\API\api\GadjetsStore\Services\obj\Debug\net9.0\refint\Services.dll
 M:\API\api\GadjetsStore\Services\obj\Debug\net9.0\Services.pdb
 M:\API\api\GadjetsStore\Services\obj\Debug\net9.0\ref\Services.dll
+M:\API\api\GadjetsStore\Services\bin\Debug\net9.0\DTOs.deps.json
+M:\API\api\GadjetsStore\Services\bin\Debug\net9.0\DTOs.runtimeconfig.json
+M:\API\api\GadjetsStore\Services\bin\Debug\net9.0\DTOs.exe
+M:\API\api\GadjetsStore\Services\bin\Debug\net9.0\DTOs.dll
+M:\API\api\GadjetsStore\Services\bin\Debug\net9.0\DTOs.pdb

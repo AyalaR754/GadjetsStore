@@ -9,6 +9,10 @@ namespace Repositories;
 
 public partial class GadjetsStoreDBContext : DbContext
 {
+    public GadjetsStoreDBContext()
+    {
+        
+    }
     public GadjetsStoreDBContext(DbContextOptions<GadjetsStoreDBContext> options)
         : base(options)
     {

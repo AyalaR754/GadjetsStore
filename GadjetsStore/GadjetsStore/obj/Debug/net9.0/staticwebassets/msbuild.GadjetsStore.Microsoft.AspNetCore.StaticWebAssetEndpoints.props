@@ -1,5 +1,11 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/GadjetsStore/Home.ahd3idmvgc.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Home.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ahd3idmvgc"},{"Name":"integrity","Value":"sha256-/ixPX3KbXM5v\u002B4Gcj2EAbwrecH1cKbxUVEk7Rf8XcPU="},{"Name":"label","Value":"_content/GadjetsStore/Home.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1769"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022/ixPX3KbXM5v\u002B4Gcj2EAbwrecH1cKbxUVEk7Rf8XcPU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 25 May 2025 14:38:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GadjetsStore/Home.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Home.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -15,8 +21,8 @@
     <StaticWebAssetEndpoint Include="_content/GadjetsStore/Home.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Home.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-p69wCCY4dR75sOZju/G0HSpqz1gaEri4I\u002BZK/7AeH0g="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1965"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022p69wCCY4dR75sOZju/G0HSpqz1gaEri4I\u002BZK/7AeH0g=\u0022"},{"Name":"Last-Modified","Value":"Wed, 23 Apr 2025 08:34:29 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/ixPX3KbXM5v\u002B4Gcj2EAbwrecH1cKbxUVEk7Rf8XcPU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1769"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022/ixPX3KbXM5v\u002B4Gcj2EAbwrecH1cKbxUVEk7Rf8XcPU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 25 May 2025 14:38:04 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GadjetsStore/Home.jtcua5jld6.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Home.css'))</AssetFile>
@@ -29,12 +35,6 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kfo2x0ly9m"},{"Name":"integrity","Value":"sha256-0IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh\u002BP0="},{"Name":"label","Value":"_content/GadjetsStore/Home.html"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1857"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00220IZOkyXluvehnTBjrdJFbs17NAE19bgj4q79zLzh\u002BP0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 23 Apr 2025 08:34:29 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GadjetsStore/Home.lp4aev353g.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Home.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lp4aev353g"},{"Name":"integrity","Value":"sha256-p69wCCY4dR75sOZju/G0HSpqz1gaEri4I\u002BZK/7AeH0g="},{"Name":"label","Value":"_content/GadjetsStore/Home.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1965"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022p69wCCY4dR75sOZju/G0HSpqz1gaEri4I\u002BZK/7AeH0g=\u0022"},{"Name":"Last-Modified","Value":"Wed, 23 Apr 2025 08:34:29 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GadjetsStore/Register.7lekzk2bf4.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Register.html'))</AssetFile>

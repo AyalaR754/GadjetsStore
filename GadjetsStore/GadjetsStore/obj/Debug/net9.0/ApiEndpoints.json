@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "Entities.Category",
+        "Type": "DTOs.CategoryDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -20,98 +20,78 @@
     ]
   },
   {
-    "ContainingType": "GadjetsStore.Controllers.CategoryController",
+    "ContainingType": "GadjetsStore.Controllers.OrdersController",
+    "Method": "Get",
+    "RelativePath": "api/Orders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "DTOs.OrderDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GadjetsStore.Controllers.OrdersController",
     "Method": "Post",
-    "RelativePath": "api/Category",
+    "RelativePath": "api/Orders",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "value",
-        "Type": "System.String",
+        "Name": "order",
+        "Type": "DTOs.OrderDTO",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
-    "ContainingType": "GadjetsStore.Controllers.CategoryController",
+    "ContainingType": "GadjetsStore.Controllers.ProdactController",
     "Method": "Get",
-    "RelativePath": "api/Category/{id}",
+    "RelativePath": "api/Prodact",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "minPrice",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "maxPrice",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "categoryIds",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]][]",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.String",
+        "Type": "DTOs.ProductDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
           "text/json"
         ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "GadjetsStore.Controllers.CategoryController",
-    "Method": "Put",
-    "RelativePath": "api/Category/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "value",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "GadjetsStore.Controllers.CategoryController",
-    "Method": "Delete",
-    "RelativePath": "api/Category/{id}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
         "StatusCode": 200
       }
     ]
@@ -126,7 +106,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "Entities.User",
+        "Type": "DTOs.UserDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -151,29 +131,7 @@
       },
       {
         "Name": "userToUpdate",
-        "Type": "Entities.User",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "GadjetsStore.Controllers.UsersController",
-    "Method": "Delete",
-    "RelativePath": "api/Users/{id}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
+        "Type": "DTOs.UserRegisterDTO",
         "IsRequired": true
       }
     ],
@@ -220,19 +178,14 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "UserName",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Password",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "user",
+        "Type": "DTOs.UserLoginDTO",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Entities.User",
+        "Type": "DTOs.UserDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -252,13 +205,13 @@
     "Parameters": [
       {
         "Name": "user",
-        "Type": "Entities.User",
+        "Type": "DTOs.UserRegisterDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Entities.User",
+        "Type": "DTOs.UserDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",

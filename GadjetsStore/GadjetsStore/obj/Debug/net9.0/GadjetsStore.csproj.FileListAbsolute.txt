@@ -27,7 +27,6 @@ M:\API\api\GadjetsStore\GadjetsStore\obj\Debug\net9.0\GadjetsStore.sourcelink.js
 M:\API\api\GadjetsStore\GadjetsStore\obj\Debug\net9.0\scopedcss\bundle\GadjetsStore.styles.css
 M:\API\api\GadjetsStore\GadjetsStore\obj\Debug\net9.0\compressed\iydfmjhq8m-jtcua5jld6.gz
 M:\API\api\GadjetsStore\GadjetsStore\obj\Debug\net9.0\compressed\c792tfty7n-kfo2x0ly9m.gz
-M:\API\api\GadjetsStore\GadjetsStore\obj\Debug\net9.0\compressed\7zi50wf8qi-lp4aev353g.gz
 M:\API\api\GadjetsStore\GadjetsStore\obj\Debug\net9.0\compressed\quek3b1da4-7lekzk2bf4.gz
 M:\API\api\GadjetsStore\GadjetsStore\obj\Debug\net9.0\compressed\c1g95ftzf4-mnysxd65s0.gz
 M:\API\api\GadjetsStore\GadjetsStore\obj\Debug\net9.0\compressed\9p9mnhirgz-7wvbtb1gp1.gz
@@ -98,3 +97,14 @@ M:\API\api\GadjetsStore\GadjetsStore\bin\Debug\net9.0\runtimes\win\lib\net6.0\Sy
 M:\API\api\GadjetsStore\GadjetsStore\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 M:\API\api\GadjetsStore\GadjetsStore\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 M:\API\api\GadjetsStore\GadjetsStore\obj\Debug\net9.0\compressed\xdqv7rftzi-jf7vi9x7nk.gz
+M:\API\api\GadjetsStore\GadjetsStore\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\API\api\GadjetsStore\GadjetsStore\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\API\api\GadjetsStore\GadjetsStore\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\API\api\GadjetsStore\GadjetsStore\bin\Debug\net9.0\DTOs.deps.json
+M:\API\api\GadjetsStore\GadjetsStore\bin\Debug\net9.0\DTOs.runtimeconfig.json
+M:\API\api\GadjetsStore\GadjetsStore\bin\Debug\net9.0\DTOs.exe
+M:\API\api\GadjetsStore\GadjetsStore\bin\Debug\net9.0\AutoMapper.dll
+M:\API\api\GadjetsStore\GadjetsStore\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+M:\API\api\GadjetsStore\GadjetsStore\bin\Debug\net9.0\DTOs.dll
+M:\API\api\GadjetsStore\GadjetsStore\bin\Debug\net9.0\DTOs.pdb
+M:\API\api\GadjetsStore\GadjetsStore\obj\Debug\net9.0\compressed\7zi50wf8qi-ahd3idmvgc.gz

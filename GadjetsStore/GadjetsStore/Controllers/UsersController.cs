@@ -8,10 +8,7 @@ using System.Runtime.Intrinsics.X86;
 using System.Threading.Tasks;
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-
-
-
-
+using DTOs;
 
 namespace GadjetsStore.Controllers
 {
@@ -27,35 +24,17 @@ namespace GadjetsStore.Controllers
         }
 
 
-        // GET api/<UsersController>/5
-        //[HttpGet("{id}")]
-        //public ActionResult<User> Get(int id)
-        //{
-        //    using (StreamReader reader = System.IO.File.OpenText("users.txt"))
-        //    {
-        //        string? currentUserInFile;
-        //        while ((currentUserInFile = reader.ReadLine()) != null)
-        //        {
-        //            User? user = JsonSerializer.Deserialize<User>(currentUserInFile);
-        //            if (user?.userId == id)
-        //                return Ok(user);
-        //        }
-        //    }
-        //    return NoContent();
-        //}
-
-
         [HttpGet]
-        public async Task<ActionResult<User>> Get()
+        public async Task<ActionResult<UserDTO>> Get()
         {
-            List<User> users = await _userService.Get();
+            List<UserDTO> users = await _userService.Get();
             return Ok(users);
         }
 
         [HttpPost("login")]
-        public async Task<ActionResult<User>> Post([FromQuery] string UserName, [FromQuery] string Password )
+        public async Task<ActionResult<UserDTO>> Post([FromBody] UserLoginDTO user)
         {
-            User userLogin = await _userService.Login(UserName,Password);
+            UserDTO userLogin = await _userService.Login(user);
             if (userLogin != null)
             {
                 return Ok( userLogin);
@@ -67,9 +46,9 @@ namespace GadjetsStore.Controllers
 
         // POST api/<UsersController>
         [HttpPost("register")]
-        public async Task<ActionResult<User>> Register([FromBody] User user)
+        public async Task<ActionResult<UserDTO>> Register([FromBody] UserRegisterDTO user)
         {
-            User newuser = await _userService.Register(user);
+            UserDTO newuser = await _userService.Register(user);
             if (newuser != null)
             {
                 return CreatedAtAction(nameof(Get), new { id = user }, user);
@@ -89,16 +68,9 @@ namespace GadjetsStore.Controllers
 
         // PUT api/<UsersController>/5
         [HttpPut("{id}")]
-        public async Task Put(int id, [FromBody] User userToUpdate)
+        public async Task Put(int id, [FromBody] UserRegisterDTO userToUpdate)
         {
            await _userService.UpDate(userToUpdate, id);
-        }
-
-        // DELETE api/<UsersController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-
         }
     }
 }

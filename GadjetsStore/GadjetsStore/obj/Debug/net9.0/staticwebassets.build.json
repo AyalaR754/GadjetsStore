@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PidR2smfQVrbnaIYDJJJm/fwHVSTKhKScEanvO1SZgQ=",
+  "Hash": "zHZO3jFtQgEon3bSaL0vuJz7bDphddSAssCsanalaL4=",
   "Source": "GadjetsStore",
   "BasePath": "_content/GadjetsStore",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-lp4aev353g.gz",
+      "Identity": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-ahd3idmvgc.gz",
       "SourceId": "GadjetsStore",
       "SourceType": "Discovered",
       "ContentRoot": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GadjetsStore",
-      "RelativePath": "Home#[.{fingerprint=lp4aev353g}]?.js.gz",
+      "RelativePath": "Home#[.{fingerprint=ahd3idmvgc}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,8 +31,8 @@
       "RelatedAsset": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xfofgnyv55",
-      "Integrity": "fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ=",
+      "Fingerprint": "3pu9ja93lx",
+      "Integrity": "WVFsgCZF+8zIsTn50F3HFxf9MmFmc0yTAfSsgBh4kAw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "lp4aev353g",
-      "Integrity": "p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g=",
+      "Fingerprint": "ahd3idmvgc",
+      "Integrity": "/ixPX3KbXM5v+4Gcj2EAbwrecH1cKbxUVEk7Rf8XcPU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Home.js"
@@ -312,6 +312,167 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "Home.ahd3idmvgc.js",
+      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-ahd3idmvgc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001438848921"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "694"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WVFsgCZF+8zIsTn50F3HFxf9MmFmc0yTAfSsgBh4kAw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 14:38:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/ixPX3KbXM5v+4Gcj2EAbwrecH1cKbxUVEk7Rf8XcPU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ahd3idmvgc"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/ixPX3KbXM5v+4Gcj2EAbwrecH1cKbxUVEk7Rf8XcPU="
+        }
+      ]
+    },
+    {
+      "Route": "Home.ahd3idmvgc.js",
+      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1769"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/ixPX3KbXM5v+4Gcj2EAbwrecH1cKbxUVEk7Rf8XcPU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 14:38:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ahd3idmvgc"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/ixPX3KbXM5v+4Gcj2EAbwrecH1cKbxUVEk7Rf8XcPU="
+        }
+      ]
+    },
+    {
+      "Route": "Home.ahd3idmvgc.js.gz",
+      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-ahd3idmvgc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WVFsgCZF+8zIsTn50F3HFxf9MmFmc0yTAfSsgBh4kAw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 25 May 2025 14:38:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ahd3idmvgc"
+        },
+        {
+          "Name": "label",
+          "Value": "Home.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WVFsgCZF+8zIsTn50F3HFxf9MmFmc0yTAfSsgBh4kAw="
+        }
+      ]
+    },
     {
       "Route": "Home.css",
       "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
@@ -588,12 +749,12 @@
     },
     {
       "Route": "Home.js",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-lp4aev353g.gz",
+      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-ahd3idmvgc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001375515818"
+          "Quality": "0.001438848921"
         }
       ],
       "ResponseHeaders": [
@@ -603,15 +764,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "726"
+          "Value": "694"
         },
         {
           "Name": "ETag",
-          "Value": "\"fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ=\""
+          "Value": "\"WVFsgCZF+8zIsTn50F3HFxf9MmFmc0yTAfSsgBh4kAw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+          "Value": "Sun, 25 May 2025 14:38:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -631,13 +792,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g=\""
+          "Value": "W/\"/ixPX3KbXM5v+4Gcj2EAbwrecH1cKbxUVEk7Rf8XcPU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g="
+          "Value": "sha256-/ixPX3KbXM5v+4Gcj2EAbwrecH1cKbxUVEk7Rf8XcPU="
         }
       ]
     },
@@ -652,7 +813,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1965"
+          "Value": "1769"
         },
         {
           "Name": "Content-Type",
@@ -660,11 +821,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g=\""
+          "Value": "\"/ixPX3KbXM5v+4Gcj2EAbwrecH1cKbxUVEk7Rf8XcPU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+          "Value": "Sun, 25 May 2025 14:38:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -674,13 +835,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g="
+          "Value": "sha256-/ixPX3KbXM5v+4Gcj2EAbwrecH1cKbxUVEk7Rf8XcPU="
         }
       ]
     },
     {
       "Route": "Home.js.gz",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-lp4aev353g.gz",
+      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-ahd3idmvgc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -689,7 +850,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "726"
+          "Value": "694"
         },
         {
           "Name": "Content-Type",
@@ -697,11 +858,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ=\""
+          "Value": "\"WVFsgCZF+8zIsTn50F3HFxf9MmFmc0yTAfSsgBh4kAw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+          "Value": "Sun, 25 May 2025 14:38:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -719,7 +880,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ="
+          "Value": "sha256-WVFsgCZF+8zIsTn50F3HFxf9MmFmc0yTAfSsgBh4kAw="
         }
       ]
     },
@@ -1042,167 +1203,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-GVRRKbi6NAkUvqS1PykZw7yRALttsWunazmpoUrwDew="
-        }
-      ]
-    },
-    {
-      "Route": "Home.lp4aev353g.js",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-lp4aev353g.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001375515818"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "726"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lp4aev353g"
-        },
-        {
-          "Name": "label",
-          "Value": "Home.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g="
-        }
-      ]
-    },
-    {
-      "Route": "Home.lp4aev353g.js",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1965"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lp4aev353g"
-        },
-        {
-          "Name": "label",
-          "Value": "Home.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-p69wCCY4dR75sOZju/G0HSpqz1gaEri4I+ZK/7AeH0g="
-        }
-      ]
-    },
-    {
-      "Route": "Home.lp4aev353g.js.gz",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-lp4aev353g.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "726"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "lp4aev353g"
-        },
-        {
-          "Name": "label",
-          "Value": "Home.js.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-fdVc5oNzNVs/REmE+Ru70Lpov9OgeIWp5PZ4eww8dgQ="
         }
       ]
     },

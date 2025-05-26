@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Repositories
 {
-    class ProductRepository : IProductRepository
+    public class ProductRepository : IProductRepository
     {
         GadjetsStoreDBContext _gadjetsStoreDBContext;
 
@@ -16,12 +16,26 @@ namespace Repositories
         {
             _gadjetsStoreDBContext = gadjetsStoreDBContext;
         }
-        public async Task<List<Product>> Get()
+        public async Task<List<Product>> Get(string? name, int? minPrice, int? maxprice, int?[] categoryIds)
+
         {
 
-            List<Product> Products = await _gadjetsStoreDBContext.Products.ToListAsync();
-            return Products;
+
+            var query = _gadjetsStoreDBContext.Products.Where(product =>
+
+            (name == null ? (true) : (product.Description.Contains(name)))
+      && ((minPrice == null ? (true) : (product.Price >= minPrice)))
+      && ((maxprice == null ? (true) : (product.Price <= maxprice)))
+      && ((categoryIds.Length == 0 ? (true) : (categoryIds.Contains(product.CategoryId))))
+
+            );
+
+            List<Product> products = await query.ToListAsync();
+
+            return products;
 
         }
+
+
     }
 }

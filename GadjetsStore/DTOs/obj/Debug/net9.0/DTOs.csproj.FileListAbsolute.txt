@@ -1,0 +1,15 @@
+M:\API\api\GadjetsStore\DTOs\bin\Debug\net9.0\DTOs.exe
+M:\API\api\GadjetsStore\DTOs\bin\Debug\net9.0\DTOs.deps.json
+M:\API\api\GadjetsStore\DTOs\bin\Debug\net9.0\DTOs.runtimeconfig.json
+M:\API\api\GadjetsStore\DTOs\bin\Debug\net9.0\DTOs.dll
+M:\API\api\GadjetsStore\DTOs\bin\Debug\net9.0\DTOs.pdb
+M:\API\api\GadjetsStore\DTOs\obj\Debug\net9.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+M:\API\api\GadjetsStore\DTOs\obj\Debug\net9.0\DTOs.AssemblyInfoInputs.cache
+M:\API\api\GadjetsStore\DTOs\obj\Debug\net9.0\DTOs.AssemblyInfo.cs
+M:\API\api\GadjetsStore\DTOs\obj\Debug\net9.0\DTOs.csproj.CoreCompileInputs.cache
+M:\API\api\GadjetsStore\DTOs\obj\Debug\net9.0\DTOs.sourcelink.json
+M:\API\api\GadjetsStore\DTOs\obj\Debug\net9.0\DTOs.dll
+M:\API\api\GadjetsStore\DTOs\obj\Debug\net9.0\refint\DTOs.dll
+M:\API\api\GadjetsStore\DTOs\obj\Debug\net9.0\DTOs.pdb
+M:\API\api\GadjetsStore\DTOs\obj\Debug\net9.0\DTOs.genruntimeconfig.cache
+M:\API\api\GadjetsStore\DTOs\obj\Debug\net9.0\ref\DTOs.dll

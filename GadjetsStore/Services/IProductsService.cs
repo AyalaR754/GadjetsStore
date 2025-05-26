@@ -1,9 +1,9 @@
-﻿using Entities;
+﻿using DTOs;
 
 namespace Services
 {
     public interface IProductsService
     {
-        Task<List<Product>> Get();
+        Task<List<ProductDTO>> Get(string? name, int? minPrice, int? maxPrice, int?[] categoryIds);
     }
 }

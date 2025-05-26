@@ -37,6 +37,8 @@ namespace Repositories
         }
         public async Task<User> UpDate(User userToUpdate, int id)
         {
+            if (userToUpdate == null)
+                return null;
             _gadjetsStoreDBContext.Users.Update(userToUpdate);
             await _gadjetsStoreDBContext.SaveChangesAsync();
             return userToUpdate;
