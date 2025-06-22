@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{315DCAF3-03DC-471F-81D1-2C8FEF82CEB0}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{315DCAF3-03DC-471F-81D1-2C8FEF82CEB0}|Entities\\Entities.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\testproject\\testuserservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testuserservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\testproject\\testcategoryreposetoryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testcategoryreposetoryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\testproject\\testuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\testproject\\testproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +13,98 @@
     {
       "AbsoluteMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\testproject\\testusercheckpasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testusercheckpasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\testproject\\testuserreposetoryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testuserreposetoryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\testproject\\testorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\testproject\\testproductreposetoryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testproductreposetoryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\services\\orderservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|solutionrelative:services\\orderservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD79B633-21A5-452A-8821-6AA494E478E1}|DTOs\\DTOs.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD79B633-21A5-452A-8821-6AA494E478E1}|DTOs\\DTOs.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\testproject\\testuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\gadjetsstore\\gadjetsstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\gadjetsstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\gadjetsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\gadjetsstore\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\gadjetsstore\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\testproject\\testorderreposetoryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testorderreposetoryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\repositories\\gadjetsstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\gadjetsstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\gadjetsstore\\appsettings (1).json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\appsettings (1).json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\gadjetsstore\\appsettings.development (1).json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\appsettings.development (1).json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315DCAF3-03DC-471F-81D1-2C8FEF82CEB0}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315DCAF3-03DC-471F-81D1-2C8FEF82CEB0}|Entities\\Entities.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\testproject\\testcategoryreposetoryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testcategoryreposetoryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -43,20 +119,8 @@
       "RelativeMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\testproject\\testorderreposetoryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testorderreposetoryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\services\\orderservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|solutionrelative:services\\orderservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\testproject\\testproductreposetoryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testproductreposetoryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{315DCAF3-03DC-471F-81D1-2C8FEF82CEB0}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,16 +131,8 @@
       "RelativeMoniker": "D:0:0:{BD79B633-21A5-452A-8821-6AA494E478E1}|DTOs\\DTOs.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\gadjetsstore\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\testproject\\testuserreposetoryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testuserreposetoryintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\testproject\\dbfixure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,28 +143,12 @@
       "RelativeMoniker": "D:0:0:{315DCAF3-03DC-471F-81D1-2C8FEF82CEB0}|Entities\\Entities.csproj|solutionrelative:entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\testproject\\testorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\testproject\\testcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\testproject\\testuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAEAEFAA-B13D-476B-BF3F-FCFA2B4D3D44}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\repositories\\gadjetsstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\gadjetsstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\gadjetsstore\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -139,14 +179,6 @@
       "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\gadjetsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD79B633-21A5-452A-8821-6AA494E478E1}|DTOs\\DTOs.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD79B633-21A5-452A-8821-6AA494E478E1}|DTOs\\DTOs.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\gadjetsstore\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -171,10 +203,6 @@
       "RelativeMoniker": "D:0:0:{BD79B633-21A5-452A-8821-6AA494E478E1}|DTOs\\DTOs.csproj|solutionrelative:dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\gadjetsstore\\gadjetsstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\gadjetsstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD79B633-21A5-452A-8821-6AA494E478E1}|DTOs\\DTOs.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\dtos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD79B633-21A5-452A-8821-6AA494E478E1}|DTOs\\DTOs.csproj|solutionrelative:dtos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -183,20 +211,8 @@
       "RelativeMoniker": "D:0:0:{2C58FC46-55B4-4653-B626-D92A34EFE246}|GadjetsStore\\GadjetsStore.csproj|solutionrelative:gadjetsstore\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2C7641D5-7427-4616-9CE6-4FF29C1D18CC}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|c:\\users\\user\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\gadjetsstore\\gadjetsstore\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E8A588A-1D0D-45D5-8DC6-D612C36550C3}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -241,89 +257,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 45,
               "Title": "Register.js",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
               "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Register.js",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
               "RelativeToolTip": "GadjetsStore\\wwwroot\\Register.js",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwCIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-03-20T20:52:25.498Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\Program.cs",
               "RelativeDocumentMoniker": "GadjetsStore\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\Program.cs",
               "RelativeToolTip": "GadjetsStore\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T15:14:03.36Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TestUserServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestUserServiceTests.cs",
-              "RelativeDocumentMoniker": "TestProject\\TestUserServiceTests.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestUserServiceTests.cs",
-              "RelativeToolTip": "TestProject\\TestUserServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T11:35:04.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Services\\UserService.cs",
-              "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAkwE4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T11:26:58.048Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Entities\\User.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Entities\\User.cs",
-              "RelativeToolTip": "Entities\\User.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T14:21:34.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T11:26:24.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "TestUserCheckPasswordService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestUserCheckPasswordService.cs",
               "RelativeDocumentMoniker": "TestProject\\TestUserCheckPasswordService.cs",
@@ -336,7 +302,306 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestProductRepository.cs",
+              "RelativeDocumentMoniker": "TestProject\\TestProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestProductRepository.cs",
+              "RelativeToolTip": "TestProject\\TestProductRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwD0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:47:15.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestUserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestUserService.cs",
+              "RelativeDocumentMoniker": "TestProject\\TestUserService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestUserService.cs",
+              "RelativeToolTip": "TestProject\\TestUserService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAqwIoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T11:35:04.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestUserReposetoryIntegration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestUserReposetoryIntegration.cs",
+              "RelativeDocumentMoniker": "TestProject\\TestUserReposetoryIntegration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestUserReposetoryIntegration.cs",
+              "RelativeToolTip": "TestProject\\TestUserReposetoryIntegration.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:35:26.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:57:13.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestOrderRepository.cs",
+              "RelativeDocumentMoniker": "TestProject\\TestOrderRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestOrderRepository.cs",
+              "RelativeToolTip": "TestProject\\TestOrderRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T10:44:31.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:26:58.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestProductReposetoryIntegration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestProductReposetoryIntegration.cs",
+              "RelativeDocumentMoniker": "TestProject\\TestProductReposetoryIntegration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestProductReposetoryIntegration.cs",
+              "RelativeToolTip": "TestProject\\TestProductReposetoryIntegration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:39:06.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "OrderService .cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Services\\OrderService .cs",
+              "RelativeDocumentMoniker": "Services\\OrderService .cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Services\\OrderService .cs",
+              "RelativeToolTip": "Services\\OrderService .cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:32:27.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:04:02.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestUserRepository.cs",
+              "RelativeDocumentMoniker": "TestProject\\TestUserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestUserRepository.cs",
+              "RelativeToolTip": "TestProject\\TestUserRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:42:36.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GadjetsStore.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\GadjetsStore.csproj",
+              "RelativeDocumentMoniker": "GadjetsStore\\GadjetsStore.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\GadjetsStore.csproj",
+              "RelativeToolTip": "GadjetsStore\\GadjetsStore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T20:52:25.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T11:26:24.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\nlog.config",
+              "RelativeDocumentMoniker": "GadjetsStore\\nlog.config",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\nlog.config",
+              "RelativeToolTip": "GadjetsStore\\nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-22T07:41:22.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\nlog.config",
+              "RelativeDocumentMoniker": "GadjetsStore\\nlog.config",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\nlog.config",
+              "RelativeToolTip": "GadjetsStore\\nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-22T07:39:12.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T12:42:19.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TestOrderReposetoryIntegration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestOrderReposetoryIntegration.cs",
+              "RelativeDocumentMoniker": "TestProject\\TestOrderReposetoryIntegration.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestOrderReposetoryIntegration.cs",
+              "RelativeToolTip": "TestProject\\TestOrderReposetoryIntegration.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwEQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:10:53.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GadjetsStoreDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\GadjetsStoreDBContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\GadjetsStoreDBContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\GadjetsStoreDBContext.cs",
+              "RelativeToolTip": "Repositories\\GadjetsStoreDBContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wBwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T15:10:08.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings (1).json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\appsettings (1).json",
+              "RelativeDocumentMoniker": "GadjetsStore\\appsettings (1).json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\appsettings (1).json",
+              "RelativeToolTip": "GadjetsStore\\appsettings (1).json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-22T06:56:26.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:35:36.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:59:11.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:52:57.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.Development (1).json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\appsettings.Development (1).json",
+              "RelativeDocumentMoniker": "GadjetsStore\\appsettings.Development (1).json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\appsettings.Development (1).json",
+              "RelativeToolTip": "GadjetsStore\\appsettings.Development (1).json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-22T06:55:35.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBJwBYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:21:34.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "Services\\IUserService.cs",
@@ -344,11 +609,12 @@
               "RelativeToolTip": "Services\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T14:24:49.383Z"
+              "WhenOpened": "2025-05-25T14:24:49.383Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 28,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "Services\\CategoryService.cs",
@@ -356,24 +622,12 @@
               "RelativeToolTip": "Services\\CategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T12:41:10.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TestProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestProductRepository.cs",
-              "RelativeDocumentMoniker": "TestProject\\TestProductRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestProductRepository.cs",
-              "RelativeToolTip": "TestProject\\TestProductRepository.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAwwG0AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T10:47:15.708Z",
+              "WhenOpened": "2025-05-13T12:41:10.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 25,
               "Title": "TestCategoryReposetoryIntegration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestCategoryReposetoryIntegration.cs",
               "RelativeDocumentMoniker": "TestProject\\TestCategoryReposetoryIntegration.cs",
@@ -386,7 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 29,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
@@ -394,59 +648,25 @@
               "RelativeToolTip": "Repositories\\OrderRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAIwCIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T09:37:34.264Z"
+              "WhenOpened": "2025-05-21T09:37:34.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TestOrderReposetoryIntegration.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestOrderReposetoryIntegration.cs",
-              "RelativeDocumentMoniker": "TestProject\\TestOrderReposetoryIntegration.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestOrderReposetoryIntegration.cs",
-              "RelativeToolTip": "TestProject\\TestOrderReposetoryIntegration.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAowEQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:10:53.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 26,
               "Title": "TestProject.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestProject.csproj",
               "RelativeDocumentMoniker": "TestProject\\TestProject.csproj",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestProject.csproj",
               "RelativeToolTip": "TestProject\\TestProject.csproj",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-22T09:05:36.867Z"
+              "WhenOpened": "2025-05-22T09:05:36.867Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "OrderService .cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Services\\OrderService .cs",
-              "RelativeDocumentMoniker": "Services\\OrderService .cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Services\\OrderService .cs",
-              "RelativeToolTip": "Services\\OrderService .cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T09:32:27.923Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TestProductReposetoryIntegration.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestProductReposetoryIntegration.cs",
-              "RelativeDocumentMoniker": "TestProject\\TestProductReposetoryIntegration.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestProductReposetoryIntegration.cs",
-              "RelativeToolTip": "TestProject\\TestProductReposetoryIntegration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:39:06.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 30,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Entities\\Product.cs",
@@ -454,23 +674,12 @@
               "RelativeToolTip": "Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T12:05:23.722Z"
+              "WhenOpened": "2025-05-12T12:05:23.722Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T12:52:57.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 33,
               "Title": "DBFixure.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\DBFixure.cs",
               "RelativeDocumentMoniker": "TestProject\\DBFixure.cs",
@@ -478,11 +687,12 @@
               "RelativeToolTip": "TestProject\\DBFixure.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T10:21:53.154Z"
+              "WhenOpened": "2025-05-26T10:21:53.154Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 34,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Entities\\Category.cs",
@@ -490,11 +700,12 @@
               "RelativeToolTip": "Entities\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T12:05:30.137Z"
+              "WhenOpened": "2025-05-12T12:05:30.137Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 31,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\DTOs\\ProductDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\ProductDTO.cs",
@@ -502,35 +713,12 @@
               "RelativeToolTip": "DTOs\\ProductDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T10:06:39.297Z"
+              "WhenOpened": "2025-05-25T10:06:39.297Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T12:35:36.438Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "TestUserReposetoryIntegration.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestUserReposetoryIntegration.cs",
-              "RelativeDocumentMoniker": "TestProject\\TestUserReposetoryIntegration.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestUserReposetoryIntegration.cs",
-              "RelativeToolTip": "TestProject\\TestUserReposetoryIntegration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T10:35:26.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 32,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "GadjetsStore\\Controllers\\OrdersController.cs",
@@ -538,59 +726,25 @@
               "RelativeToolTip": "GadjetsStore\\Controllers\\OrdersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T09:31:41.784Z"
+              "WhenOpened": "2025-05-21T09:31:41.784Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "GadjetsStoreDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\GadjetsStoreDBContext.cs",
-              "RelativeDocumentMoniker": "Repositories\\GadjetsStoreDBContext.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\GadjetsStoreDBContext.cs",
-              "RelativeToolTip": "Repositories\\GadjetsStoreDBContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T15:10:08.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "TestUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestUserRepository.cs",
-              "RelativeDocumentMoniker": "TestProject\\TestUserRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestUserRepository.cs",
-              "RelativeToolTip": "TestProject\\TestUserRepository.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAqwFIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T10:42:36.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 35,
               "Title": "TestCategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestCategoryRepository.cs",
               "RelativeDocumentMoniker": "TestProject\\TestCategoryRepository.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestCategoryRepository.cs",
               "RelativeToolTip": "TestProject\\TestCategoryRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T10:44:13.024Z"
+              "WhenOpened": "2025-05-22T10:44:13.024Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "TestOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestOrderRepository.cs",
-              "RelativeDocumentMoniker": "TestProject\\TestOrderRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\TestProject\\TestOrderRepository.cs",
-              "RelativeToolTip": "TestProject\\TestOrderRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T10:44:31.63Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 36,
               "Title": "Repositories.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\Repositories.csproj",
               "RelativeDocumentMoniker": "Repositories\\Repositories.csproj",
@@ -598,23 +752,25 @@
               "RelativeToolTip": "Repositories\\Repositories.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-11T11:58:55.06Z"
+              "WhenOpened": "2025-05-11T11:58:55.06Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 41,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Services\\ProductService.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Services\\ProductService.cs",
               "RelativeToolTip": "Services\\ProductService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBwAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T12:55:44.767Z"
+              "WhenOpened": "2025-05-13T12:55:44.767Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 38,
               "Title": "OrderDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\DTOs\\OrderDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\OrderDTO.cs",
@@ -622,23 +778,12 @@
               "RelativeToolTip": "DTOs\\OrderDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T12:59:48.139Z"
+              "WhenOpened": "2025-05-25T12:59:48.139Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\DTOs\\UserDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\DTOs\\UserDTO.cs",
-              "RelativeToolTip": "DTOs\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T10:04:02.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 37,
               "Title": "AutoMapping.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\AutoMapping.cs",
               "RelativeDocumentMoniker": "GadjetsStore\\AutoMapping.cs",
@@ -646,11 +791,12 @@
               "RelativeToolTip": "GadjetsStore\\AutoMapping.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T12:37:41.578Z"
+              "WhenOpened": "2025-05-25T12:37:41.578Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 40,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "GadjetsStore\\Controllers\\CategoryController.cs",
@@ -658,11 +804,12 @@
               "RelativeToolTip": "GadjetsStore\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T12:31:58.326Z"
+              "WhenOpened": "2025-05-13T12:31:58.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 42,
               "Title": "productController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\Controllers\\productController.cs",
               "RelativeDocumentMoniker": "GadjetsStore\\Controllers\\productController.cs",
@@ -670,11 +817,12 @@
               "RelativeToolTip": "GadjetsStore\\Controllers\\productController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T12:59:48.895Z"
+              "WhenOpened": "2025-05-13T12:59:48.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 39,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Services\\IOrderService.cs",
               "RelativeDocumentMoniker": "Services\\IOrderService.cs",
@@ -682,23 +830,25 @@
               "RelativeToolTip": "Services\\IOrderService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T15:49:34.347Z"
+              "WhenOpened": "2025-05-25T15:49:34.347Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 43,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "GadjetsStore\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\Controllers\\UsersController.cs",
               "RelativeToolTip": "GadjetsStore\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwEgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T20:52:25.486Z"
+              "WhenOpened": "2025-03-20T20:52:25.486Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 46,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Entities\\Order.cs",
@@ -706,23 +856,25 @@
               "RelativeToolTip": "Entities\\Order.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAgwB8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T12:05:29.057Z"
+              "WhenOpened": "2025-05-12T12:05:29.057Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 44,
               "Title": "Home.js",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
               "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Home.js",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
               "RelativeToolTip": "GadjetsStore\\wwwroot\\Home.js",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwDAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-21T14:18:42.527Z"
+              "WhenOpened": "2025-04-21T14:18:42.527Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 49,
               "Title": "OrderItemDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\DTOs\\OrderItemDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\OrderItemDTO.cs",
@@ -730,11 +882,12 @@
               "RelativeToolTip": "DTOs\\OrderItemDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T13:06:33.339Z"
+              "WhenOpened": "2025-05-25T13:06:33.339Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 47,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "Entities\\OrderItem.cs",
@@ -742,47 +895,38 @@
               "RelativeToolTip": "Entities\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T12:05:08.374Z"
+              "WhenOpened": "2025-05-12T12:05:08.374Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 48,
               "Title": "CategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\DTOs\\CategoryDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\CategoryDTO.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\DTOs\\CategoryDTO.cs",
               "RelativeToolTip": "DTOs\\CategoryDTO.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAgAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T12:55:54.122Z"
+              "WhenOpened": "2025-05-25T12:55:54.122Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "GadjetsStore.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\GadjetsStore.csproj",
-              "RelativeDocumentMoniker": "GadjetsStore\\GadjetsStore.csproj",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\GadjetsStore.csproj",
-              "RelativeToolTip": "GadjetsStore\\GadjetsStore.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-20T20:52:25.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 50,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\DTOs\\Program.cs",
               "RelativeDocumentMoniker": "DTOs\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\DTOs\\Program.cs",
               "RelativeToolTip": "DTOs\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T09:50:56.521Z"
+              "WhenOpened": "2025-05-25T09:50:56.521Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 51,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "GadjetsStore\\Properties\\launchSettings.json",
@@ -790,35 +934,12 @@
               "RelativeToolTip": "GadjetsStore\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-21T15:14:06.472Z"
+              "WhenOpened": "2025-04-21T15:14:06.472Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "Repositories\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T12:57:13.969Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\IOrderRepository.cs",
-              "RelativeToolTip": "Repositories\\IOrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T09:59:11.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 52,
               "Title": "Services.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Services\\Services.csproj",
               "RelativeDocumentMoniker": "Services\\Services.csproj",
@@ -826,23 +947,12 @@
               "RelativeToolTip": "Services\\Services.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-23T09:28:01.534Z"
+              "WhenOpened": "2025-04-23T09:28:01.534Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "Repositories\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T12:42:19.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 53,
               "Title": "Microsoft.NET.TargetFrameworkInference.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
@@ -853,7 +963,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 54,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ICategoryRepository.cs",
@@ -861,23 +971,25 @@
               "RelativeToolTip": "Repositories\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T12:45:29.687Z"
+              "WhenOpened": "2025-05-13T12:45:29.687Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 55,
               "Title": "Update.js",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.js",
               "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Update.js",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.js",
               "RelativeToolTip": "GadjetsStore\\wwwroot\\Update.js",
-              "ViewState": "AgIAAAwAAAAAAAAAACBjwCIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBpwCIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-20T20:52:25.164Z"
+              "WhenOpened": "2025-03-20T20:52:25.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 56,
               "Title": "Home.css",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
               "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Home.css",
@@ -885,22 +997,24 @@
               "RelativeToolTip": "GadjetsStore\\wwwroot\\Home.css",
               "ViewState": "AgIAAB0AAAAAAAAAAAAuwDIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-27T13:46:33.849Z"
+              "WhenOpened": "2025-03-27T13:46:33.849Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 57,
               "Title": "GadjetsStore",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\GadjetsStore.csproj",
               "RelativeDocumentMoniker": "GadjetsStore\\GadjetsStore.csproj",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\GadjetsStore.csproj",
               "RelativeToolTip": "GadjetsStore\\GadjetsStore.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-12T12:05:35Z"
+              "WhenOpened": "2025-05-12T12:05:35Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 58,
               "Title": "Update.html",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
               "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Update.html",
@@ -908,11 +1022,12 @@
               "RelativeToolTip": "GadjetsStore\\wwwroot\\Update.html",
               "ViewState": "AgIAACUAAAAAAAAAAAAqwDkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-20T20:52:25.478Z"
+              "WhenOpened": "2025-03-20T20:52:25.478Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 61,
               "Title": "UserPassword.js",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js",
               "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\UserPassword.js",
@@ -920,11 +1035,12 @@
               "RelativeToolTip": "GadjetsStore\\wwwroot\\UserPassword.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-23T13:06:18.904Z"
+              "WhenOpened": "2025-04-23T13:06:18.904Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 59,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\LoginRequest.cs",
               "RelativeDocumentMoniker": "GadjetsStore\\LoginRequest.cs",
@@ -932,19 +1048,21 @@
               "RelativeToolTip": "GadjetsStore\\LoginRequest.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAADwvw8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T14:31:30.746Z"
+              "WhenOpened": "2025-04-21T14:31:30.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 60,
               "Title": "Register.html",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
               "RelativeDocumentMoniker": "GadjetsStore\\wwwroot\\Register.html",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
               "RelativeToolTip": "GadjetsStore\\wwwroot\\Register.html",
-              "ViewState": "AgIAABUAAAAAAAAAAMBtwDwAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAACBzwDwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-23T09:58:17.92Z"
+              "WhenOpened": "2025-04-23T09:58:17.92Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -5,7 +5,10 @@ using System.Text.Json;
 using Microsoft.EntityFrameworkCore.Metadata;
 using AutoMapper;
 using DTOs;
+
+using Microsoft.Extensions.Logging;
 using System.Net.Mail;
+
 
 namespace Services
 {
@@ -13,9 +16,11 @@ namespace Services
     {
         private readonly IUserRepository _userRepository;
         private readonly IMapper _mapper;
+        private readonly ILogger<UserService> _logger;
 
-        public UserService(IUserRepository userRepository, IMapper mapper)
+        public UserService(IUserRepository userRepository, IMapper mapper, ILogger<UserService> logger)
         {
+            _logger = logger;
             _userRepository = userRepository;
             _mapper = mapper;
         }
@@ -27,6 +32,14 @@ namespace Services
 
 
             User userfound = await _userRepository.Login(userLoginDTO.Email, userLoginDTO.Password);
+            if (userfound == null)
+            {
+                _logger.LogWarning("Login failed for username: {UserName}. Invalid credentials or user not found.", userLoginDTO.Email);
+                return null;
+            }
+
+                _logger.LogInformation("User {UserName} logged in successfully", userfound.Email);
+          
             if (userfound != null)
             {
 
@@ -65,9 +78,7 @@ namespace Services
         }
         public async Task<UserDTO> UpDate(UserRegisterDTO user, int id)
         {
-            if (checkPassword(user.Password) <= 2)
-                return null;
-
+           
             //valid
             if (!IsValidEmail(user.Email))
                 return null;
@@ -94,6 +105,19 @@ namespace Services
             return result.Score;
 
         }
+        private bool IsValidEmail(string email)
+        {
+            try
+            {
+                var addr = new MailAddress(email);
+                return addr.Address == email;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+
     }
 
 }

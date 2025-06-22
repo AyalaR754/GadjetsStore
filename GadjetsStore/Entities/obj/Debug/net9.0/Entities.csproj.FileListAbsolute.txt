@@ -11,3 +11,16 @@ M:\API\api\GadjetsStore\Entities\obj\Debug\net9.0\refint\Entities.dll
 M:\API\api\GadjetsStore\Entities\obj\Debug\net9.0\Entities.pdb
 M:\API\api\GadjetsStore\Entities\obj\Debug\net9.0\ref\Entities.dll
 M:\API\api\GadjetsStore\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\Entities\bin\Debug\net9.0\Entities.dll
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\Entities\bin\Debug\net9.0\Entities.pdb
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\Entities\obj\Debug\net9.0\Entities.dll
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\Entities\obj\Debug\net9.0\Entities.pdb
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\Entities\obj\Debug\net9.0\ref\Entities.dll

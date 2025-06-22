@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zHZO3jFtQgEon3bSaL0vuJz7bDphddSAssCsanalaL4=",
+  "Hash": "mVoUgMfzgiRkx5TmkVzZ1v7HtMxzU4QuOU8w+fR8e1g=",
   "Source": "GadjetsStore",
   "BasePath": "_content/GadjetsStore",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "GadjetsStore\\wwwroot",
       "Source": "GadjetsStore",
-      "ContentRoot": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\",
       "BasePath": "_content/GadjetsStore",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-ahd3idmvgc.gz",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-ahd3idmvgc.gz",
       "SourceId": "GadjetsStore",
       "SourceType": "Discovered",
-      "ContentRoot": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GadjetsStore",
       "RelativePath": "Home#[.{fingerprint=ahd3idmvgc}]?.js.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "3pu9ja93lx",
       "Integrity": "WVFsgCZF+8zIsTn50F3HFxf9MmFmc0yTAfSsgBh4kAw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js"
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js"
     },
     {
-      "Identity": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\9p9mnhirgz-7wvbtb1gp1.gz",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\9p9mnhirgz-7wvbtb1gp1.gz",
       "SourceId": "GadjetsStore",
       "SourceType": "Discovered",
-      "ContentRoot": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GadjetsStore",
       "RelativePath": "UserPassword#[.{fingerprint=7wvbtb1gp1}]?.js.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "2i9sfq9x3c",
       "Integrity": "5vmFrVe4XGfywxBRXXXE+G3SOVDnMzbsfOZu/S+Jij8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js"
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js"
     },
     {
-      "Identity": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-mnysxd65s0.gz",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-mnysxd65s0.gz",
       "SourceId": "GadjetsStore",
       "SourceType": "Discovered",
-      "ContentRoot": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GadjetsStore",
       "RelativePath": "Update#[.{fingerprint=mnysxd65s0}]?.html.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "x8rdmpsr2n",
       "Integrity": "MSWchL+w/YcOmsCCVc4w3GbmphTEuNLMQjQmESVJHOg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html"
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html"
     },
     {
-      "Identity": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
       "SourceId": "GadjetsStore",
       "SourceType": "Discovered",
-      "ContentRoot": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GadjetsStore",
       "RelativePath": "Home#[.{fingerprint=kfo2x0ly9m}]?.html.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "dnh7jze7a8",
       "Integrity": "GVRRKbi6NAkUvqS1PykZw7yRALttsWunazmpoUrwDew=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html"
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html"
     },
     {
-      "Identity": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
       "SourceId": "GadjetsStore",
       "SourceType": "Discovered",
-      "ContentRoot": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GadjetsStore",
       "RelativePath": "Home#[.{fingerprint=jtcua5jld6}]?.css.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "86uyfwsh8v",
       "Integrity": "wENmNUtKjWLrZwH7eukcvtEV19wZGVfftBxjUouGsk8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css"
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css"
     },
     {
-      "Identity": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-7lekzk2bf4.gz",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-7lekzk2bf4.gz",
       "SourceId": "GadjetsStore",
       "SourceType": "Discovered",
-      "ContentRoot": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GadjetsStore",
       "RelativePath": "Register#[.{fingerprint=7lekzk2bf4}]?.html.gz",
       "AssetKind": "All",
@@ -133,20 +133,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "johyne642m",
       "Integrity": "A104hLPyiJ9gzdacza0bTWDywT09veMozepB4h8Pobk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html"
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html"
     },
     {
-      "Identity": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-jf7vi9x7nk.gz",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-jf7vi9x7nk.gz",
       "SourceId": "GadjetsStore",
       "SourceType": "Discovered",
-      "ContentRoot": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GadjetsStore",
       "RelativePath": "Register#[.{fingerprint=jf7vi9x7nk}]?.js.gz",
       "AssetKind": "All",
@@ -154,20 +154,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
+      "RelatedAsset": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "k8tr3tlqxn",
       "Integrity": "xBNBKyjzrnlb9aoHfkXkVMot8FRFigoJLj9TENNOYAs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js"
+      "OriginalItemSpec": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js"
     },
     {
-      "Identity": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
       "SourceId": "GadjetsStore",
       "SourceType": "Discovered",
-      "ContentRoot": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\",
       "BasePath": "_content/GadjetsStore",
       "RelativePath": "Home#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\Home.css"
     },
     {
-      "Identity": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
       "SourceId": "GadjetsStore",
       "SourceType": "Discovered",
-      "ContentRoot": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\",
       "BasePath": "_content/GadjetsStore",
       "RelativePath": "Home#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\Home.html"
     },
     {
-      "Identity": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
       "SourceId": "GadjetsStore",
       "SourceType": "Discovered",
-      "ContentRoot": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\",
       "BasePath": "_content/GadjetsStore",
       "RelativePath": "Home#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\Home.js"
     },
     {
-      "Identity": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
       "SourceId": "GadjetsStore",
       "SourceType": "Discovered",
-      "ContentRoot": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\",
       "BasePath": "_content/GadjetsStore",
       "RelativePath": "Register#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\Register.html"
     },
     {
-      "Identity": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
       "SourceId": "GadjetsStore",
       "SourceType": "Discovered",
-      "ContentRoot": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\",
       "BasePath": "_content/GadjetsStore",
       "RelativePath": "Register#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\Register.js"
     },
     {
-      "Identity": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
       "SourceId": "GadjetsStore",
       "SourceType": "Discovered",
-      "ContentRoot": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\",
       "BasePath": "_content/GadjetsStore",
       "RelativePath": "Update#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\Update.html"
     },
     {
-      "Identity": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js",
+      "Identity": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js",
       "SourceId": "GadjetsStore",
       "SourceType": "Discovered",
-      "ContentRoot": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\",
       "BasePath": "_content/GadjetsStore",
       "RelativePath": "UserPassword#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -314,7 +314,7 @@
   "Endpoints": [
     {
       "Route": "Home.ahd3idmvgc.js",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-ahd3idmvgc.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-ahd3idmvgc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -337,7 +337,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 14:38:04 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -377,7 +377,7 @@
     },
     {
       "Route": "Home.ahd3idmvgc.js",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -398,7 +398,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 14:38:04 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -422,7 +422,7 @@
     },
     {
       "Route": "Home.ahd3idmvgc.js.gz",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-ahd3idmvgc.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-ahd3idmvgc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -443,7 +443,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 14:38:04 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -475,7 +475,7 @@
     },
     {
       "Route": "Home.css",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -498,7 +498,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -530,7 +530,7 @@
     },
     {
       "Route": "Home.css",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -551,7 +551,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -567,7 +567,7 @@
     },
     {
       "Route": "Home.css.gz",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -588,7 +588,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -612,7 +612,7 @@
     },
     {
       "Route": "Home.html",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -635,7 +635,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -667,7 +667,7 @@
     },
     {
       "Route": "Home.html",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -688,7 +688,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -704,7 +704,7 @@
     },
     {
       "Route": "Home.html.gz",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -725,7 +725,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -749,7 +749,7 @@
     },
     {
       "Route": "Home.js",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-ahd3idmvgc.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-ahd3idmvgc.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -772,7 +772,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 14:38:04 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -804,7 +804,7 @@
     },
     {
       "Route": "Home.js",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -825,7 +825,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 14:38:04 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -841,7 +841,7 @@
     },
     {
       "Route": "Home.js.gz",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-ahd3idmvgc.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\7zi50wf8qi-ahd3idmvgc.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -862,7 +862,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 25 May 2025 14:38:04 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -886,7 +886,7 @@
     },
     {
       "Route": "Home.jtcua5jld6.css",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -909,7 +909,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -949,7 +949,7 @@
     },
     {
       "Route": "Home.jtcua5jld6.css",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -970,7 +970,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -994,7 +994,7 @@
     },
     {
       "Route": "Home.jtcua5jld6.css.gz",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\iydfmjhq8m-jtcua5jld6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1015,7 +1015,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1047,7 +1047,7 @@
     },
     {
       "Route": "Home.kfo2x0ly9m.html",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1070,7 +1070,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1110,7 +1110,7 @@
     },
     {
       "Route": "Home.kfo2x0ly9m.html",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Home.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1131,7 +1131,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1155,7 +1155,7 @@
     },
     {
       "Route": "Home.kfo2x0ly9m.html.gz",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c792tfty7n-kfo2x0ly9m.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1176,7 +1176,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 08:34:29 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1208,7 +1208,7 @@
     },
     {
       "Route": "Register.7lekzk2bf4.html",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-7lekzk2bf4.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-7lekzk2bf4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1231,7 +1231,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 14:31:33 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1271,7 +1271,7 @@
     },
     {
       "Route": "Register.7lekzk2bf4.html",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1292,7 +1292,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 14:31:33 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1316,7 +1316,7 @@
     },
     {
       "Route": "Register.7lekzk2bf4.html.gz",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-7lekzk2bf4.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-7lekzk2bf4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1337,7 +1337,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 14:31:33 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1369,7 +1369,7 @@
     },
     {
       "Route": "Register.html",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-7lekzk2bf4.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-7lekzk2bf4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1392,7 +1392,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 14:31:33 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1424,7 +1424,7 @@
     },
     {
       "Route": "Register.html",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1445,7 +1445,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 14:31:33 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1461,7 +1461,7 @@
     },
     {
       "Route": "Register.html.gz",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-7lekzk2bf4.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\quek3b1da4-7lekzk2bf4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1482,7 +1482,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 14:31:33 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1506,7 +1506,7 @@
     },
     {
       "Route": "Register.jf7vi9x7nk.js",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-jf7vi9x7nk.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-jf7vi9x7nk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1529,7 +1529,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 14:35:10 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1569,7 +1569,7 @@
     },
     {
       "Route": "Register.jf7vi9x7nk.js",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1590,7 +1590,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 14:35:10 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1614,7 +1614,7 @@
     },
     {
       "Route": "Register.jf7vi9x7nk.js.gz",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-jf7vi9x7nk.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-jf7vi9x7nk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1635,7 +1635,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 14:35:10 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1667,7 +1667,7 @@
     },
     {
       "Route": "Register.js",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-jf7vi9x7nk.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-jf7vi9x7nk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1690,7 +1690,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 14:35:10 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1722,7 +1722,7 @@
     },
     {
       "Route": "Register.js",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Register.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1743,7 +1743,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 14:35:10 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1759,7 +1759,7 @@
     },
     {
       "Route": "Register.js.gz",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-jf7vi9x7nk.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\xdqv7rftzi-jf7vi9x7nk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1780,7 +1780,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 12 May 2025 14:35:10 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1804,7 +1804,7 @@
     },
     {
       "Route": "Update.html",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-mnysxd65s0.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-mnysxd65s0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1827,7 +1827,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 14:32:24 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1859,7 +1859,7 @@
     },
     {
       "Route": "Update.html",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1880,7 +1880,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 14:32:24 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1896,7 +1896,7 @@
     },
     {
       "Route": "Update.html.gz",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-mnysxd65s0.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-mnysxd65s0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1917,7 +1917,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 14:32:24 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1941,7 +1941,7 @@
     },
     {
       "Route": "Update.mnysxd65s0.html",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-mnysxd65s0.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-mnysxd65s0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1964,7 +1964,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 14:32:24 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2004,7 +2004,7 @@
     },
     {
       "Route": "Update.mnysxd65s0.html",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\Update.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2025,7 +2025,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 14:32:24 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2049,7 +2049,7 @@
     },
     {
       "Route": "Update.mnysxd65s0.html.gz",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-mnysxd65s0.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\c1g95ftzf4-mnysxd65s0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2070,7 +2070,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 14:32:24 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2102,7 +2102,7 @@
     },
     {
       "Route": "UserPassword.7wvbtb1gp1.js",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\9p9mnhirgz-7wvbtb1gp1.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\9p9mnhirgz-7wvbtb1gp1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2125,7 +2125,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 14:29:26 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2165,7 +2165,7 @@
     },
     {
       "Route": "UserPassword.7wvbtb1gp1.js",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2186,7 +2186,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 14:29:26 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2210,7 +2210,7 @@
     },
     {
       "Route": "UserPassword.7wvbtb1gp1.js.gz",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\9p9mnhirgz-7wvbtb1gp1.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\9p9mnhirgz-7wvbtb1gp1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2231,7 +2231,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 14:29:26 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2263,7 +2263,7 @@
     },
     {
       "Route": "UserPassword.js",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\9p9mnhirgz-7wvbtb1gp1.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\9p9mnhirgz-7wvbtb1gp1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2286,7 +2286,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 14:29:26 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2318,7 +2318,7 @@
     },
     {
       "Route": "UserPassword.js",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\wwwroot\\UserPassword.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2339,7 +2339,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 14:29:26 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2355,7 +2355,7 @@
     },
     {
       "Route": "UserPassword.js.gz",
-      "AssetFile": "M:\\API\\api\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\9p9mnhirgz-7wvbtb1gp1.gz",
+      "AssetFile": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\GadjetsStore\\obj\\Debug\\net9.0\\compressed\\9p9mnhirgz-7wvbtb1gp1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2376,7 +2376,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Apr 2025 14:29:26 GMT"
+          "Value": "Mon, 16 Jun 2025 22:10:14 GMT"
         },
         {
           "Name": "Cache-Control",

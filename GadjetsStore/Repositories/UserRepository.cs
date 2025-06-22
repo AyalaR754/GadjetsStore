@@ -11,14 +11,13 @@ namespace Repositories
     {
 
         GadjetsStoreDBContext _gadjetsStoreDBContext;
-        private readonly ILogger<UserRepository> _logger;
-        public UserRepository(GadjetsStoreDBContext gadjetsStoreDBContext, ILogger<UserRepository> logger)
-        {   _logger = logger; 
+        public UserRepository(GadjetsStoreDBContext gadjetsStoreDBContext)
+        {  
             _gadjetsStoreDBContext = gadjetsStoreDBContext;
         }
         public async Task<User> Login(string userName, string password)
         {
-            _logger.LogInformation("Attempting login for user: {UserName}", userName);
+           
             return await _gadjetsStoreDBContext.Users.Where(user => user.Email.Trim() == userName && user.Password.Trim() == password).FirstOrDefaultAsync();
 
         }

@@ -1,10 +1,10 @@
-M:\API\api\GadjetsStore\GadjetsStore\wwwroot\Home.js
-M:\API\api\GadjetsStore\GadjetsStore\wwwroot\UserPassword.js
-M:\API\api\GadjetsStore\GadjetsStore\wwwroot\Update.html
-M:\API\api\GadjetsStore\GadjetsStore\wwwroot\Home.html
-M:\API\api\GadjetsStore\GadjetsStore\wwwroot\Home.css
-M:\API\api\GadjetsStore\GadjetsStore\wwwroot\Register.html
-M:\API\api\GadjetsStore\GadjetsStore\wwwroot\Register.js
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\GadjetsStore\wwwroot\Home.js
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\GadjetsStore\wwwroot\UserPassword.js
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\GadjetsStore\wwwroot\Update.html
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\GadjetsStore\wwwroot\Home.html
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\GadjetsStore\wwwroot\Home.css
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\GadjetsStore\wwwroot\Register.html
+C:\Users\User\Desktop\לימודים\web_api\GadjetsStore\GadjetsStore\GadjetsStore\wwwroot\Register.js
 wwwroot\Home.css
 wwwroot\Home.html
 wwwroot\Home.js

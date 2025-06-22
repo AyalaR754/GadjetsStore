@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
 using Repositories;
 using Services;
+using NLog.Web;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -24,9 +25,11 @@ builder.Services.AddScoped<IOrderRepository, OrderRepository>();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
-builder.Services.AddDbContext<GadjetsStoreDBContext>(options => options.UseSqlServer("Data Source=SRV2\\PUPILS;Initial Catalog=GadjetsStoreDB;Integrated Security=True;TrustServerCertificate=True"));
-
+//builder.Services.AddDbContext<GadjetsStoreDBContext>(options => options.UseSqlServer("Data Source=SRV2\\PUPILS;Initial Catalog=GadjetsStoreDB;Integrated Security=True;TrustServerCertificate=True"));
+builder.Services.AddDbContext<GadjetsStoreDBContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("school")));
 builder.Services.AddOpenApi();
+builder.Host.UseNLog();
 
 var app = builder.Build();
 app.UseHttpsRedirection();
