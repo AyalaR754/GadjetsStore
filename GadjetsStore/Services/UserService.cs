@@ -5,6 +5,7 @@ using System.Text.Json;
 using Microsoft.EntityFrameworkCore.Metadata;
 using AutoMapper;
 using DTOs;
+using System.Net.Mail;
 
 namespace Services
 {
@@ -39,11 +40,14 @@ namespace Services
             if (checkPassword(user.Password) <= 2)
                 return null;
 
+            //valid
+            if (!IsValidEmail(user.Email))
+                return null;
+
             // Check if the user already exists
             List<User> users = await _userRepository.Get();
-            //User? userfound = users.FirstOrDefault(u => u.Email == user.Email.Trim());
-
             User? userfound = users.Where(u => u.Email == user.Email).FirstOrDefault();
+
             if (userfound == null)
             {
                 User userToRegister = _mapper.Map<UserRegisterDTO, User>(user);
@@ -62,6 +66,10 @@ namespace Services
         public async Task<UserDTO> UpDate(UserRegisterDTO user, int id)
         {
             if (checkPassword(user.Password) <= 2)
+                return null;
+
+            //valid
+            if (!IsValidEmail(user.Email))
                 return null;
 
             // Check if the user already exists

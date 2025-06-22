@@ -2864,23 +2864,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\328227616\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\API\\api\\GadjetsStore\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "M:\\API\\api\\GadjetsStore\\Services\\Services.csproj",
-      "packagesPath": "C:\\Users\\328227616\\.nuget\\packages\\",
-      "outputPath": "M:\\API\\api\\GadjetsStore\\Services\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\Services\\Services.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\328227616\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2889,21 +2889,20 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "M:\\API\\api\\GadjetsStore\\DTOs\\DTOs.csproj": {
-              "projectPath": "M:\\API\\api\\GadjetsStore\\DTOs\\DTOs.csproj"
+            "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\DTOs\\DTOs.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\DTOs\\DTOs.csproj"
             },
-            "M:\\API\\api\\GadjetsStore\\Entities\\Entities.csproj": {
-              "projectPath": "M:\\API\\api\\GadjetsStore\\Entities\\Entities.csproj"
+            "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\Entities\\Entities.csproj"
             },
-            "M:\\API\\api\\GadjetsStore\\Repositories\\Repositories.csproj": {
-              "projectPath": "M:\\API\\api\\GadjetsStore\\Repositories\\Repositories.csproj"
+            "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\Repositories\\Repositories.csproj"
             }
           }
         }
@@ -2949,7 +2948,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

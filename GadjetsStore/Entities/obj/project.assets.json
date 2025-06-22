@@ -2746,23 +2746,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\328227616\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\API\\api\\GadjetsStore\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "M:\\API\\api\\GadjetsStore\\Entities\\Entities.csproj",
-      "packagesPath": "C:\\Users\\328227616\\.nuget\\packages\\",
-      "outputPath": "M:\\API\\api\\GadjetsStore\\Entities\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\Entities\\Entities.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\לימודים\\web_api\\GadjetsStore\\GadjetsStore\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\328227616\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2771,7 +2771,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2817,7 +2816,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

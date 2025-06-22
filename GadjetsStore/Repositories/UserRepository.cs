@@ -1,5 +1,6 @@
 ﻿using Entities;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using System.Text.Json;
 
 
@@ -10,13 +11,14 @@ namespace Repositories
     {
 
         GadjetsStoreDBContext _gadjetsStoreDBContext;
-
-        public UserRepository(GadjetsStoreDBContext gadjetsStoreDBContext)
-        {
+        private readonly ILogger<UserRepository> _logger;
+        public UserRepository(GadjetsStoreDBContext gadjetsStoreDBContext, ILogger<UserRepository> logger)
+        {   _logger = logger; 
             _gadjetsStoreDBContext = gadjetsStoreDBContext;
         }
         public async Task<User> Login(string userName, string password)
         {
+            _logger.LogInformation("Attempting login for user: {UserName}", userName);
             return await _gadjetsStoreDBContext.Users.Where(user => user.Email.Trim() == userName && user.Password.Trim() == password).FirstOrDefaultAsync();
 
         }
