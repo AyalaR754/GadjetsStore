@@ -28,8 +28,8 @@ namespace Services
         public async Task<UserDTO> Login(UserLoginDTO userLoginDTO)
         {
             if (checkPassword(userLoginDTO.Password) <= 2)
-                return null;
-
+                return null; 
+                // Please note: checking password strength at login is not acceptable, this is usually only checked at registration.
 
             User userfound = await _userRepository.Login(userLoginDTO.Email, userLoginDTO.Password);
             if (userfound == null)
@@ -38,14 +38,9 @@ namespace Services
                 return null;
             }
 
-                _logger.LogInformation("User {UserName} logged in successfully", userfound.Email);
-          
-            if (userfound != null)
-            {
-
-                return _mapper.Map<User, UserDTO>(userfound);
-            }
-            return null;
+            _logger.LogInformation("User {UserName} logged in successfully", userfound.Email);
+            // You can return the DTO directly, no need to check again userfound != null
+            return _mapper.Map<User, UserDTO>(userfound);
         }
         public async Task<UserDTO?> Register(UserRegisterDTO user)
         {
@@ -58,6 +53,7 @@ namespace Services
                 return null;
 
             // Check if the user already exists
+            //It is more efficient to do a GetById function.
             List<User> users = await _userRepository.Get();
             User? userfound = users.Where(u => u.Email == user.Email).FirstOrDefault();
 
@@ -78,8 +74,7 @@ namespace Services
         }
         public async Task<UserDTO> UpDate(UserRegisterDTO user, int id)
         {
-           
-            //valid
+            // Note: There is no password strength check here, maybe you should add it like in registration
             if (!IsValidEmail(user.Email))
                 return null;
 
@@ -91,15 +86,15 @@ namespace Services
             User userToUpdate = _mapper.Map<UserRegisterDTO, User>(user);
             userToUpdate.Id = id;
             User userUpdated = await _userRepository.UpDate(userToUpdate, id);
-            if (userUpdated != null)
+            if (userUpdated != null)// The null check is optional here; _mapper.Map will return null if userUpdated is null
             {
-                userUpdated.Id = id; 
+               // userUpdated.Id = id; // No need to set Id again if repository returns the updated user with correct Id
                 return _mapper.Map<User, UserDTO>(userUpdated);
             }
             return null;
         }
 
-        public int checkPassword(String password)
+        public int checkPassword(String password)//CheckPassword
         {
             var result = Zxcvbn.Core.EvaluatePassword(password);
             return result.Score;

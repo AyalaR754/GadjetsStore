@@ -18,10 +18,7 @@ namespace Repositories
         }
         public async Task<List<Order>> Get()
         {
-
-            List<Order> orders = await _gadjetsStoreDBContext.Orders.ToListAsync();
-            return orders;
-
+            return await _gadjetsStoreDBContext.Orders.ToListAsync();//change in all the functions
         }
 
         public async Task<Order> AddOrder(Order order)

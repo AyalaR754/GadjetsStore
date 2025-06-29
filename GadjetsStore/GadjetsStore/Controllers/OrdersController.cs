@@ -2,7 +2,10 @@
 using Entities;
 using Services;
 using DTOs;
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+//delete comments from all files
+//clean code - use meaningful function names in all files
+
+// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860//
 
 namespace GadjetsStore.Controllers
 {
@@ -13,17 +16,17 @@ namespace GadjetsStore.Controllers
 
 
         private readonly IOrderService _orderService;
-           
+
 
         public OrdersController(IOrderService orderService)
         {
             _orderService = orderService;
         }
-        // GET: api/<OrdersController>
+        // GET: api/<OrdersController>//
         [HttpGet]
         public async Task<ActionResult<OrderDTO>> Get()
         {
-         
+
             List<OrderDTO> orders = await _orderService.Get();
             return Ok(orders);
         }
@@ -42,6 +45,7 @@ namespace GadjetsStore.Controllers
             {
                 return null;
             }
+            //return newOrder != null ? CreatedAtAction(nameof(Get), new { id = order }, order) : null;
         }
 
     }

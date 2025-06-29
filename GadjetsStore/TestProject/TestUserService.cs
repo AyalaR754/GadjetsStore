@@ -157,4 +157,6 @@ public class UserServiceTests
             It.IsAny<Func<It.IsAnyType, Exception, string>>()),
             Times.Once);
     }
+
+    // Use more descriptive test names (e.g., CheckPassword_ReturnsZero_ForVeryWeakPassword)
 }
