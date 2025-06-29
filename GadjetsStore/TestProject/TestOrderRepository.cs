@@ -28,6 +28,8 @@ namespace TestProject
             Assert.Equal(order, result);
             mockContext.Verify(x => x.Orders.AddAsync(order, default), Times.Once());
             mockContext.Verify(x => x.SaveChangesAsync(default), Times.Once());
+
+            // Consider verifying that the order is actually added to the in-memory collection, not just that AddAsync was called.
         }
 
         [Fact]

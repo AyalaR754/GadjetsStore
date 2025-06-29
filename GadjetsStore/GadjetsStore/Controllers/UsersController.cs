@@ -37,9 +37,11 @@ namespace GadjetsStore.Controllers
             UserDTO userLogin = await _userService.Login(user);
             if (userLogin != null)
             {
-                return Ok( userLogin);
+                return Ok(userLogin);
             }
             return NotFound("NO USER FOUND");
+            //return userLogin != null ? Ok(userLogin) : NotFound("NO USER FOUND");
+            //do also in the next function
             
         }
 
